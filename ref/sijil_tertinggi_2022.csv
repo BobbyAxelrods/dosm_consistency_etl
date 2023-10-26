@@ -1,0 +1,36 @@
+KOD,DESC,GRP_SJ,DESC
+20,Tiada sijil,8,Tiada Sijil
+21,Masih belum bersekolah,10,Masih Belum Bersekolah
+22,Tidak berkenaan,9,Tidak Berkenaan
+23,Sijil pendidikan bukan formal,5,Sijil 
+101,UPKK,1,UPSR atau yang setaraf
+102,UPSR/UPSRA,1,UPSR atau yang setaraf
+241,SRA,2,PT3/PMR/SRP atau yang setaraf
+242,PT3/PMR/SRP/LCE,2,PT3/PMR/SRP atau yang setaraf
+341,SMA/SMU,3,SPM atau yang setaraf
+342,4 Thanawi,3,SPM atau yang setaraf
+343,SPM/MCE/SC/FMCE/CSC,3,SPM atau yang setaraf
+344,SPVM/SPM(V)/MCVE,3,SPM atau yang setaraf
+345,GCE O Level,3,SPM atau yang setaraf
+351,Sijil kemahiran asas,3,SPM atau yang setaraf
+346,STA/STAM/STU,4,STPM atau yang setaraf
+347,STPM/STP/HSC,4,STPM atau yang setaraf
+348,GCE A Level,4,STPM atau yang setaraf
+349,Sijil Matrikulasi,4,STPM atau yang setaraf
+352,Sijil kemahiran khusus dan teknikal,5,Sijil 
+353,Sijil daripada Badan-badan yang memberi pengiktirafan atau yang setaraf,5,Sijil 
+354,Sijil daripada kolej atau yang setaraf,5,Sijil 
+355,Sijil daripada politeknik atau yang setaraf,5,Sijil 
+356,Sijil daripada universiti atau yang setaraf,5,Sijil 
+357,Sijil perguruan/kejururawatan/kesihatan bersekutu,5,Sijil 
+551,Diploma dalam kemahiran khusus atau teknikal,6,Diploma 
+552,Diploma Lanjutan/Higher National Diploma  dalam kemahiran khusus atau teknikal,6,Diploma 
+553,Diploma daripada kolej atau yang setaraf (terutamanya kolej swasta),6,Diploma 
+554,Diploma daripada politeknik atau yang setaraf,6,Diploma 
+555,Diploma daripada universiti atau yang setaraf,6,Diploma 
+556,Diploma perguruan/kejururawatan/kesihatan bersekutu,6,Diploma 
+665,Ijazah Sarjana Muda/Diploma Lanjutan,7,Ijazah 
+667,Diploma/Sijil pasca ijazah atau dari badan profesional,7,Ijazah 
+767,Ijazah Sarjana,7,Ijazah 
+861,Doktor Falsafah (PhD),7,Ijazah 
+862,Diploma/Sjil Pasca kedoktoran,7,Ijazah 

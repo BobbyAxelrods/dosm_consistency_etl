@@ -1,0 +1,1642 @@
+SEKSYEN,KOD_MSIC,KETERANGAN_BAHASA MELAYU
+A,1111,Penanaman jagung
+A,1112,Penanaman tanaman kekacang
+A,1113,Penanaman bijian berminyak
+A,1119,Penanaman bijirin lain t.t.t.l
+A,1120,Penanaman padi
+A,1131,Penanaman sayur-sayuran berdaun atau berbatang
+A,1132,Penanaman sayur-sayuran berbuah
+A,1133,Penanaman tembikai
+A,1134,Penanaman cendawan dan truffles
+A,1135,"Penanaman benih sayuran, kecuali benih bit"
+A,1136,Penanaman sayur-sayuran lain
+A,1137,Penanaman ubi gula
+A,1138,"Penanaman tumbuhan berakar, ubi-ubian, bebawang atau sayur-sayuran berubi"
+A,1138,"Penanaman tumbuhan berakar, ubi-ubian, bebawang atau sayur-sayuran berubi"
+A,1140,Penanaman tebu
+A,1150,Penanaman tembakau
+A,1160,Penanaman tanaman berserat
+A,1191,Penanaman bunga
+A,1192,Penanaman biji benih bungaan
+A,1193,Penanaman sagu (rumbia)
+A,1193,Penanaman sagu (rumbia)
+A,1199,Penanaman tanaman bukan kekal lain t.t.t.l
+A,1210,Penanaman anggur
+A,1221,Penanaman pisang
+A,1222,Penanaman mangga
+A,1223,Penanaman durian
+A,1224,Penanaman rambutan
+A,1225,Penanaman buah belimbing
+A,1226,Penanaman betik
+A,1227,Penanaman nenas
+A,1228,Penanaman buah naga
+A,1229,Penanaman buah-buahan tropika dan subtropika lain t.t.t.l
+A,1231,Penanaman limau bali
+A,1232,Penanaman lemon dan limau nipis
+A,1233,Penanaman tangerin dan mandarin
+A,1239,Penanaman buah-buahan sitrus lain t.t.t.l.
+A,1241,Penanaman jambu batu
+A,1249,Penanaman buah-buahan delima dan berbiji lain t.t.t.l
+A,1251,Penanaman buah beri
+A,1252,Penanaman biji benih buah-buahan
+A,1253,Penanaman kekacang yang boleh dimakan
+A,1259,Penanaman pokok dan buah-buahan bertandan lain
+A,1259,Penanaman pokok dan buah-buahan bertandan lain
+A,1261,Penanaman kelapa sawit (estet)
+A,1262,Penanaman kelapa sawit (kebun kecil)
+A,1263,Penanaman kelapa (estet dan kebun kecil)
+A,1269,Penanaman buah-buah lain untuk minyak t.t.t.l.
+A,1271,Penanaman kopi
+A,1272,Penanaman teh
+A,1273,Penanaman koko
+A,1279,Penanaman tanaman minuman lain t.t.t.l.
+A,1281,Penanaman lada hitam (piper nigrum)
+A,1282,Penanaman cili dan lada (lada benggala spp.)
+A,1283,Penanaman buah pala
+A,1284,Penanaman halia
+A,1285,"Penanaman tanaman yang digunakan terutamanya untuk penghasilan minyak wangi, untuk farmasi atau untuk racun serangga, kulat atau untuk tujuan yang seumpamanya"
+A,1289,Penanaman tanaman rempah ratus dan aromatik lain t.t.t.l
+A,1291,Penanaman pokok getah (estet)
+A,1292,Penanaman pokok getah (kebun kecil)
+A,1293,Penanaman pokok untuk pengekstrakan sap
+A,1294,Penanaman pokok nipah
+A,1295,Penanaman pokok pinang
+A,1296,Penanaman pokok roselle
+A,1299,Penanaman tanaman kekal lain t.t.t.l
+A,1301,Penanaman tumbuhan sebagai tanaman
+A,1301,Penanaman tumbuhan sebagai tanaman
+A,1302,Penanaman tumbuhan untuk tujuan hiasan
+A,1303,"Penanaman tumbuhan untuk bebawang, ubi dan akar; keratan dan hirisan; benih cendawan"
+A,1304,Operasi tapak semaian pokok (nurseries)
+A,1304,Operasi tapak semaian pokok (nurseries)
+A,1411,"Penternakan, pembiakan dan pengeluaran lembu atau kerbau"
+A,1411,"Penternakan, pembiakan dan pengeluaran lembu atau kerbau"
+A,1412,Pengeluaran susu mentah daripada lembu atau kerbau
+A,1413,Pengeluaran air mani lembu
+A,1420,"Penternakan dan pembiakan kuda, keldai, baghal atau hinny"
+A,1430,Penternakan dan pembiakan unta (dromedary) dan camelid
+A,1441,"Penternakan, pembiakan dan pengeluaran biri-biri dan kambing"
+A,1442,Pengeluaran susu mentah biri-biri atau kambing
+A,1443,Pengeluaran bulu belum proses
+A,1450,"Penternakan, pembiakan dan pengeluaran babi"
+A,1461,"Penternakan, pembiakan dan pengeluaran ayam, ayam daging"
+A,1462,"Penternakan, pembiakan dan pengeluaran itik"
+A,1463,"Penternakan, pembiakan dan pengeluaran angsa"
+A,1464,"Penternakan, pembiakan dan pengeluaran burung puyuh"
+A,1465,Penternakan dan pembiakan unggas lain t.t.t.l.
+A,1466,Pengeluaran telur ayam
+A,1467,Pengeluaran telur itik
+A,1468,Pengeluaran telur unggas lain t.t.t.l.
+A,1469,Operasi penetasan unggas
+A,1491,"Penternakan, pembiakan dan pengeluaran haiwan separuh jinak"
+A,1492,"Pengeluaran kulit berbulu, kulit burung atau reptilia dari operasi ladang ternakan"
+A,1493,"Operasi ternakan cacing, moluska, siput"
+A,1494,Penternakan ulat sutera dan pengeluaran hasil kepompong ulat sutera
+A,1495,Penternakan lebah dan pengeluaran hasil madu dan lilin lebah
+A,1496,Penternakan dan pembiakan haiwan peliharaan
+A,1497,Penternakan dan pembiakan burung walit
+A,1499,Penternakan pelbagai/haiwan lain t.t.t.l
+A,1500,Pertanian campuran
+A,1610,Aktiviti pertanian untuk pengeluaran tanaman berasaskan yuran atau kontrak
+A,1620,Aktiviti pertanian untuk pengeluaran ternakan berasaskan yuran atau kontrak
+A,1620,Aktiviti pertanian untuk pengeluaran ternakan berasaskan yuran atau kontrak
+A,1631,Penyediaan tanaman untuk pasaran utama
+A,1632,Penyediaan daun tembakau
+A,1632,Penyediaan daun tembakau
+A,1633,Penyediaan biji koko
+A,1634,Menjemur sayur-sayuran dan buah-buahan
+A,1640,Pemprosesan benih untuk pembiakan
+A,1701,Pemburuan dan penjeratan haiwan secara komersial
+A,1702,Penangkapan haiwan (hidup atau mati)
+A,2101,"Penanaman, penanaman semula, pemindahan, pengurusan dan pemuliharaan hutan dan kawasan lapang"
+A,2102,"Penanaman belukar, kayu pulpa dan kayu api"
+A,2103,Operasi tapak semaian pokok hutan
+A,2104,Pengumpulan dan pemeliharaan hutan liar (spesis pokok hutan paya gambut)
+A,2105,Ladang hutan
+A,2201,Pengeluaran kayu balak untuk industri berasaskan kayu
+A,2202,Pengeluaran kayu balak yang digunakan dalam bentuk belum proses
+A,2203,Pengeluaran arang kayu dalam hutan (menggunakan kaedah tradisional)
+A,2204,Pembalakan kayu getah
+A,2301,"Pengumpulan rotan, buluh"
+A,2302,Pemungutan sarang burung
+A,2303,Pengumpulan pokok sagu liar
+A,2309,Pengumpulan produk hutan bukan kayu t.t.t.l
+A,2309,Pengumpulan produk hutan bukan kayu t.t.t.l
+A,2309,Pengumpulan produk hutan bukan kayu t.t.t.l
+A,2401,Menjalankan sebahagian operasi perhutanan dan ladang hutan berdasarkan bayaran atau secara kontrak untuk aktiviti perkhidmatan perhutanan
+A,2401,Menjalankan sebahagian operasi perhutanan dan ladang hutan berdasarkan bayaran atau secara kontrak untuk aktiviti perkhidmatan perhutanan
+A,2402,Menjalankan sebahagian operasi perhutanan berdasarkan bayaran atau secara kontrak untuk aktiviti perkhidmatan pembalakan
+A,3111,Perikanan komersil di laut dan perairan pantai
+A,3112,Pemungutan krustasia dan moluska laut
+A,3113,"Pengambilan haiwan akuatik : sea squirts, tunikat, landak laut"
+A,3114,"Aktiviti atas kapal yang melibatkan penangkapan, pemprosesan dan pengawetan ikan"
+A,3115,"Pengumpulan organisma perikanan dan hasil laut lain (tiram semulajadi, span, batu karang dan alga)"
+A,3119,Perikanan laut t.t.t.l.
+A,3121,Perikanan komersil di darat
+A,3122,Pengambilan krustasia dan moluska air tawar
+A,3123,Pengambilan haiwan akuatik air tawar
+A,3124,Pengumpulan flora dan fauna air tawar
+A,3129,Perikanan ikan air tawar t.t.t.l.
+A,3211,Ternakan ikan di laut
+A,3212,"Pengeluaran benih moluska dwi-cangkerang (tiram, kupang), anak udang kara, anak udang dan benih ikan"
+A,3213,Penanaman rumpair merah dan rumpai laut lain yang boleh dimakan
+A,3214,"Pengkulturan krustasia, dwi-cangkerang, moluska dan haiwan akuatik lain di laut"
+A,3215,Aktiviti akuakultur air payau
+A,3216,Aktiviti akuakultur di dalam tangki air atau takungan masin
+A,3217,Operasi penetasan anak benih (laut)
+A,3218,Operasi ladang ternakan cacing laut untuk makanan ikan
+A,3219,Akuakultur laut t.t.t.l.
+A,3221,Ternakan ikan air tawar
+A,3222,Ternakan udang air tawar
+A,3223,"Pengkulturan krustasia, dwi-cangkerang, moluska dan haiwan akuatik lain di air tawar"
+A,3224,Operasi penetasan anak benih (air tawar)
+A,3225,Penternakan katak
+A,3229,Akuakultur air tawar t.t.t.l.
+B,5100,Perlombongan batu arang pepejal
+B,5200,Perlombongan lignit (batu arang perang)
+B,6101,Pengekstrakan minyak petroleum mentah
+B,6102,Pengekstrakan bitumen atau minyak batu syal dan pasir tar
+B,6103,Pengeluaran petroleum mentah daripada batu syal dan pasir berbitumen
+B,6104,Proses mendapatkan minyak mentah
+B,6201,Pengeluaran hidrokarbon mentah bergas (gas asli)
+B,6202,Pengekstrakan kondensat
+B,6203,Penyaliran dan pemisahan komponen hidrokarbon cecair
+B,6204,Penyahsulfuran gas
+B,6205,"Perlombongan cecair hidrokarbon, diperoleh melalui pencairan atau penguraian kimia (pyrolisis)"
+B,7101,Perlombongan bijih yang tinggi kandungan besi
+B,7102,Pengekstrakan dan penggumpulan bijih besi
+B,7210,Perlombongan bijih uranium dan torium
+B,7291,Perlombongan bijih timah
+B,7292,Perlombongan tembaga
+B,7293,Perlombongan bauksit (aluminium)
+B,7294,Perlombongan ilmenit
+B,7295,Perlombongan emas
+B,7296,Perlombongan perak
+B,7297,Perlombongan platinum
+B,7298,Pembilasan amang
+B,7299,Perlombongan bijih logam bukan besi lain t.t.t.l.
+B,8101,"Pengkuarian, pemotongan kasar bongkah batu dan batu bangunan seperti marmar, granit (dimension stone), batu pasir"
+B,8101,"Pengkuarian, pemotongan kasar bongkah batu dan batu bangunan seperti marmar, granit (dimension stone), batu pasir"
+B,8102,"Pengkuarian, penghancuran dan pemecahan batu kapur"
+B,8103,Perlombongan gipsum dan anhidrit
+B,8104,Perlombongan kapur dan dolomite yang tidak dirawat
+B,8105,"Pengekstrakan dan penggorekan bagi industri pasir, pasir untuk sektor pembinaan dan kerikil"
+B,8106,Pemecahan dan penghancuran batu dan kerikil
+B,8107,Pengkuarian pasir
+B,8107,Pengkuarian pasir
+B,8108,"Perlombongan tanah liat, refraktori tanah liat dan kaolin"
+B,8108,"Perlombongan tanah liat, refraktori tanah liat dan kaolin"
+B,8108,"Perlombongan tanah liat, refraktori tanah liat dan kaolin"
+B,8109,"Pengkuarian, penghancuran dan pemecahan granit"
+B,8911,Perlombongan fosfat semulajadi
+B,8912,Perlombongan garam kalium (potassium) semulajadi
+B,8913,Perlombongan sulfur semulajadi
+B,8914,"Pengekstrakan dan penyediaan pirit dan pirotit, kecuali penyalaian"
+B,8915,Perlombongan barium sulfat semulajadi dan karbonat (baryte and witerit)
+B,8915,Perlombongan barium sulfat semulajadi dan karbonat (baryte and witerit)
+B,8916,"Perlombongan borat semula jadi, magnesium sulfat semulajadi (kieserit)"
+B,8917,"Perlombongan earth colours, fluorspar dan mineral lain yang tinggi kandungan mineral sebagai sumber kimia"
+B,8918,Perlombongan guano
+B,8921,Penggalian tanah gambut
+B,8922,Penggumpulan tanah gambut
+B,8923,Penyediaan tanah gambut untuk pembaikan kualiti atau kemudahan pengangkutan atau penstoran
+B,8931,Pengekstrakan garam dari bawah tanah
+B,8932,Pengeluaran garam melalui penyejatan air laut atau air masin lain
+B,8933,"Penghancuran, penulenan dan penapisan garam oleh pengeluar"
+B,8991,Perlombongan dan pengkuarian bahan pelelas (bahan kesat)
+B,8992,Perlombongan dan pengkuarian asbestos
+B,8993,Perlombongan dan pengkuarian fosil bersilika
+B,8994,Perlombongan dan pengkuarian grafit  semulajadi
+B,8995,Perlombongan dan pengkuarian steatite (talkum)
+B,8996,Perlombongan dan pengkuarian batu permata
+B,8999,Perlombongan dan pengkuarian lain t.t.t.l
+B,9101,Aktiviti pengekstrakan petroleum dan gas yang dibekalkan atas dasar kontrak atau yuran
+B,9101,Aktiviti pengekstrakan petroleum dan gas yang dibekalkan atas dasar kontrak atau yuran
+B,9101,Aktiviti pengekstrakan petroleum dan gas yang dibekalkan atas dasar kontrak atau yuran
+B,9101,Aktiviti pengekstrakan petroleum dan gas yang dibekalkan atas dasar kontrak atau yuran
+B,9102,Perkhidmatan memadam kebakaran di lapangan minyak dan gas
+B,9900,Aktiviti sokongan perlombongan dan pengkuarian lain
+B,9900,Aktiviti sokongan perlombongan dan pengkuarian lain
+B,9900,Aktiviti sokongan perlombongan dan pengkuarian lain
+B,9900,Aktiviti sokongan perlombongan dan pengkuarian lain
+B,9900,Aktiviti sokongan perlombongan dan pengkuarian lain
+B,9900,Aktiviti sokongan perlombongan dan pengkuarian lain
+B,9900,Aktiviti sokongan perlombongan dan pengkuarian lain
+B,9900,Aktiviti sokongan perlombongan dan pengkuarian lain
+B,9900,Aktiviti sokongan perlombongan dan pengkuarian lain
+B,9900,Aktiviti sokongan perlombongan dan pengkuarian lain
+B,9900,Aktiviti sokongan perlombongan dan pengkuarian lain
+C,10101,Pemprosesan dan pengawetan daging dan pengeluaran produk daging
+C,10102,Pemprosesan dan pengawetan ayam itik dan produk ayam itik
+C,10103,Pengeluaran belulang dan kulit daripada rumah penyembelihan
+C,10103,Pengeluaran belulang dan kulit daripada rumah penyembelihan
+C,10104,"Operasi rumah penyembelihan yang terlibat dalam pembunuhan, pembersihan atau pembungkusan daging"
+C,10104,"Operasi rumah penyembelihan yang terlibat dalam pembunuhan, pembersihan atau pembungkusan daging"
+C,10109,Pemprosesan dan pengawetan daging t.t.t.l
+C,10201,"Pengetinan ikan, krustasea dan moluska"
+C,10202,"Pemprosesan dan pengawetan ikan, krustasea dan moluska"
+C,10203,Pengeluaran makanan berasaskan ikan untuk manusia atau haiwan
+C,10204,Pengeluaran keropok termasuk keropok lekor
+C,10204,Pengeluaran keropok termasuk keropok lekor
+C,10205,Pemprosesan rumpai laut
+C,10301,Pembuatan produk makanan buah-buahan dan sayur-sayuran
+C,10302,Pembuatan jus buah-buahan dan sayur-sayuran
+C,10303,Pengetinan nanas
+C,10304,"Pembuatan jem, marmalad dan sajian jeli"
+C,10305,Pembuatan kacang dan produk kekacang
+C,10306,Pembuatan produk tauhu
+C,10306,Pembuatan produk tauhu
+C,10401,Pembuatan minyak sawit mentah
+C,10402,Pembuatan minyak sawit bertapis
+C,10403,Pembuatan minyak isirong
+C,10404,Pembuatan minyak sayuran mentah dan bertapis
+C,10405,Pembuatan minyak kelapa
+C,10406,Pembuatan sebatian lemak masakan
+C,10407,Pembuatan minyak dan lemak haiwan
+C,10501,Pembuatan aiskrim dan ais lain yang boleh dimakan seperti sorbet
+C,10502,"Pembuatan susu pekat, tepung dan sejat"
+C,10509,Pembuatan produk tenusu lain t.t.t.l
+C,10611,Pengilangan beras
+C,10612,Perkhidmatan persediaan pengilangan
+C,10613,Pengilangan tepung
+C,10619,Pembuatan produk bijian t.t.t.l
+C,10621,Pembuatan kanji dan produk berkanji
+C,10621,Pembuatan kanji dan produk berkanji
+C,10621,Pembuatan kanji dan produk berkanji
+C,10621,Pembuatan kanji dan produk berkanji
+C,10622,"Pembuatan glukosa, sirap glukosa, maltosa, inulin"
+C,10623,Pembuatan tepung/produk sagu dan ubi kayu
+C,10711,Pembuatan biskut dan cookies
+C,10712,"Pembuatan roti, kek dan produk bakeri lain"
+C,10713,Pembuatan produk snek
+C,10714,Pembuatan produk bakeri yang dibeku
+C,10721,Pembuatan gula
+C,10722,Pembuatan produk daripada gula
+C,10731,Pembuatan produk koko
+C,10732,Pembuatan coklat dan produk coklat
+C,10733,Pembuatan konfeksi gula
+C,10741,"Pembuatan bihun, mi dan produk lain yang berkaitan"
+C,10742,Pembuatan pasta
+C,10750,Pembuatan makanan dan hidangan tersedia
+C,10750,Pembuatan makanan dan hidangan tersedia
+C,10750,Pembuatan makanan dan hidangan tersedia
+C,10750,Pembuatan makanan dan hidangan tersedia
+C,10750,Pembuatan makanan dan hidangan tersedia
+C,10750,Pembuatan makanan dan hidangan tersedia
+C,10791,Pembuatan kopi
+C,10792,Pembuatan teh
+C,10793,Pembuatan sos dan bahan perasa
+C,10794,Pembuatan rempah ratus dan serbuk kari
+C,10795,Pembuatan produk berasaskan telur
+C,10799,Pembuatan produk makanan lain t.t.t.l
+C,10799,Pembuatan produk makanan lain t.t.t.l
+C,10800,Pembuatan makanan haiwan tersedia
+C,11010,"Penyulingan, pembersihan dan pencampuran spirit"
+C,11020,Pembuatan wain
+C,11020,Pembuatan wain
+C,11030,Pembuatan minuman keras malt dan malt
+C,11041,Pembuatan minuman ringan
+C,11042,Pengeluaran air mineral semulajadi dan minuman lain yang dibotolkan
+C,12000,Pembuatan produk tembakau
+C,13110,Penyediaan dan pemintalan gentian tekstil
+C,13110,Penyediaan dan pemintalan gentian tekstil
+C,13120,Penenunan tekstil
+C,13120,Penenunan tekstil
+C,13120,Penenunan tekstil
+C,13131,Membuat batik
+C,13132,"Pewarnaan, pelunturan, percetakan dan penyiapan akhir benang dan fabrik"
+C,13139,Penyiapan akhir tekstil lain
+C,13139,Penyiapan akhir tekstil lain
+C,13139,Penyiapan akhir tekstil lain
+C,13910,Pembuatan fabrik dikait dan dikrusye
+C,13921,"Pembuatan artikel tersedia bagi bahan tekstil seumpamanya, termasuk fabrik dikait atau dikrusye"
+C,13922,Pembuatan artikel perhiasan tersedia
+C,13922,Pembuatan artikel perhiasan tersedia
+C,13930,Pembuatan permaidani dan hamparan
+C,13940,"Pembuatan bagi tali-temali, tali, tali pintal dan jaring"
+C,13990,Pembuatan tekstil lain t.t.t.l.
+C,13990,Pembuatan tekstil lain t.t.t.l.
+C,13990,Pembuatan tekstil lain t.t.t.l.
+C,14101,Pembuatan pakaian spesifik
+C,14101,Pembuatan pakaian spesifik
+C,14101,Pembuatan pakaian spesifik
+C,14102,Pembuatan pakaian
+C,14103,Jahitan pakaian tempahan
+C,14109,Pembuatan aksesori pakaian lain
+C,14200,Pembuatan artikel daripada kulit bulu
+C,14300,Pembuatan pakaian yang dikait dan dikrusye
+C,15110,Penyamakan dan pembersihan kulit; pembersihan dan pewarnaan bulu
+C,15110,Penyamakan dan pembersihan kulit; pembersihan dan pewarnaan bulu
+C,15120,"Pembuatan bagasi, beg tangan dan seumpamanya, pelana dan abah-abah"
+C,15120,"Pembuatan bagasi, beg tangan dan seumpamanya, pelana dan abah-abah"
+C,15120,"Pembuatan bagasi, beg tangan dan seumpamanya, pelana dan abah-abah"
+C,15201,Pembuatan kasut kulit
+C,15202,Pembuatan kasut plastik
+C,15203,Pembuatan kasut getah
+C,15209,Pembuatan kasut lain t.t.t.l
+C,16100,Pengilangan dan pengetaman kayu
+C,16211,Pembuatan kepingan venier dan papan lapis
+C,16211,Pembuatan kepingan venier dan papan lapis
+C,16212,Pembuatan papan partikel dan papan gentian
+C,16221,Pertukangan kayu untuk jurubina
+C,16222,Pembuatan produk tanggam kayu
+C,16230,Pembuatan bekas kayu
+C,16291,Pembuatan kayu arang
+C,16292,"Pembuatan produk kayu lain; rotan, artikel gabus, jerami dan bahan jalinan"
+C,16292,"Pembuatan produk kayu lain; rotan, artikel gabus, jerami dan bahan jalinan"
+C,16292,"Pembuatan produk kayu lain; rotan, artikel gabus, jerami dan bahan jalinan"
+C,17010,"Pembuatan pulpa, kertas dan kertas tebal"
+C,17010,"Pembuatan pulpa, kertas dan kertas tebal"
+C,17020,Pembuatan kertas gelugur dan kertas tebal dan bekas daripada kertas dan kertas tebal
+C,17091,Pembuatan sampul surat dan kad surat
+C,17092,Pembuatan kertas kegunaan rumah dan pembersih peribadi
+C,17092,Pembuatan kertas kegunaan rumah dan pembersih peribadi
+C,17092,Pembuatan kertas kegunaan rumah dan pembersih peribadi
+C,17093,Pembuatan kertas bergam atau pelekat yang berjalur atau bergulung dan label dan kertas dinding
+C,17094,"Pembuatan patung, barangan kertas upacara pengebumian, kertas colok"
+C,17099,Pembuatan barang kertas dan kertas tebal lain yang t.t.t.l.
+C,17099,Pembuatan barang kertas dan kertas tebal lain yang t.t.t.l.
+C,17099,Pembuatan barang kertas dan kertas tebal lain yang t.t.t.l.
+C,17099,Pembuatan barang kertas dan kertas tebal lain yang t.t.t.l.
+C,18110,Percetakan
+C,18110,Percetakan
+C,18120,Aktiviti perkhidmatan berkaitan percetakan
+C,18200,Penerbitan semula media rakaman
+C,19100,Pembuatan produk ketuhar kok
+C,19100,Pembuatan produk ketuhar kok
+C,19201,Pembuatan produk petroleum bertapis
+C,19201,Pembuatan produk petroleum bertapis
+C,19202,Pembuatan produk bio-diesel
+C,20111,Pembuatan gas perindustrian atau perubatan bukan organik dalam bentuk cecair atau mampat
+C,20112,Pembuatan kimia organik asas
+C,20112,Pembuatan kimia organik asas
+C,20113,Pembuatan sebatian bukan organik
+C,20119,Pembuatan kimia asas lain t.t.t.l
+C,20119,Pembuatan kimia asas lain t.t.t.l
+C,20119,Pembuatan kimia asas lain t.t.t.l
+C,20121,Pembuatan baja
+C,20129,Pembuatan produk campuran nitrogen
+C,20131,"Pembuatan getah sintetik dalam bentuk primer: getah sintetik, tiruan"
+C,20132,Pembuatan campuran getah sintetik dan getah asli atau getah–seperti perekat
+C,20133,Pembuatan campuran getah sintetik dan getah asli atau getah–seperti perekat
+C,20210,Pembuatan racun perosak dan produk agrokimia lain
+C,20221,"Pembuatan cat, varnis dan penyadur dan mastik"
+C,20222,Pembuatan dakwat cetak
+C,20231,"Pembuatan sabun dan bahan pencuci, penyediaan membersih dan mengilat"
+C,20232,Pembuatan pewangi dan penyediaan dandanan diri
+C,20291,"Pembuatan plat fotografi, filem, sensitized paper dan other sensitized unexposed materials"
+C,20292,Pembuatan dakwat menulis dan melukis
+C,20299,Pembuatan produk kimia lain t.t.t.l
+C,20299,Pembuatan produk kimia lain t.t.t.l
+C,20300,Pembuatan serat buatan manusia
+C,21001,Pembuatan bahan aktif ubat-ubatan untuk digunakan oleh bidang farmakologi dalam pembuatan ubat-ubatan
+C,21002,Pemprosesan darah
+C,21003,Pembuatan ubat-ubatan
+C,21004,Pembuatan produk kimia bagi pencegah kehamilan
+C,21005,Pembuatan penyediaan diagnosis perubatan
+C,21006,Pembuatan bahan diagnosis in-vivo radioaktif
+C,21007,Pembuatan farmaseutikal bioteknologi
+C,21009,"Pembuatan produk farmaseutikal, kimia perubatan dan botani t.t.t.l"
+C,21009,"Pembuatan produk farmaseutikal, kimia perubatan dan botani t.t.t.l"
+C,22111,Pembuatan tayar getah untuk kenderaan
+C,22112,Pembuatan bunga tayar yang boleh ditukar ganti dan tayar celup
+C,22191,"Pembuatan produk lain daripada getah asli atau sintetik, tidak divulkan, divulkan atau dikeraskan"
+C,22192,Pembuatan sarung tangan getah
+C,22192,Pembuatan sarung tangan getah
+C,22193,Pengilangan semula getah dan prosesan susu getah
+C,22193,Pengilangan semula getah dan prosesan susu getah
+C,22199,Pembuatan produk getah lain yang t.t.t.l
+C,22199,Pembuatan produk getah lain yang t.t.t.l
+C,22199,Pembuatan produk getah lain yang t.t.t.l
+C,22201,Pembuatan produk plastik separa siap
+C,22201,Pembuatan produk plastik separa siap
+C,22202,Pembuatan produk plastik siap
+C,22203,Pembuatan artikel plastik untuk pembungkusan barangan
+C,22203,Pembuatan artikel plastik untuk pembungkusan barangan
+C,22203,Pembuatan artikel plastik untuk pembungkusan barangan
+C,22203,Pembuatan artikel plastik untuk pembungkusan barangan
+C,22204,Pembuatan barangan plastik jurubina
+C,22204,Pembuatan barangan plastik jurubina
+C,22204,Pembuatan barangan plastik jurubina
+C,22204,Pembuatan barangan plastik jurubina
+C,22204,Pembuatan barangan plastik jurubina
+C,22205,"Pembuatan pinggan mangkuk, peralatan dapur dan barangan tandas daripada plastik"
+C,22209,Pembuatan pelbagai produk plastik t.t.t.l
+C,22209,Pembuatan pelbagai produk plastik t.t.t.l
+C,22209,Pembuatan pelbagai produk plastik t.t.t.l
+C,22209,Pembuatan pelbagai produk plastik t.t.t.l
+C,22209,Pembuatan pelbagai produk plastik t.t.t.l
+C,23101,"Pembuatan kaca leper, termasuk kaca leper berdawai, berwarna atau sedikit berwarna"
+C,23102,"Pembuatan barangan kaca makmal, barangan kesihatan atau farmaseutikal"
+C,23109,Pembuatan produk kaca lain t.t.t.l
+C,23911,Pembuatan mortar refraktori dan konkrit
+C,23912,Pembuatan barangan seramik refraktori
+C,23921,Pembuatan seramik bukan refraktori
+C,23929,Pembuatan lain-lain bahan binaan dari tanah liat
+C,23929,Pembuatan lain-lain bahan binaan dari tanah liat
+C,23930,Pembuatan produk porselin dan seramik lain
+C,23941,Pembuatan simen hidraulik
+C,23942,Pembuatan kapur dan plaster
+C,23951,Pembuatan konkrit dan mortar siap bancuh dan bancuhan kering
+C,23952,"Pembuatan konkrit pratuangan, simen atau artikel batu buatan yang digunakan dalam pembinaan"
+C,23953,"Pembuatan komponen struktur pasang siap untuk bangunan atau kejuruteraan awam dari simen, batu atau konkrit buatan"
+C,23959,"Pembuatan artikel konkrit, simen dan plaster lain t.t.t.l"
+C,23960,"Pemotongan, pembentukan dan penyiapan batu"
+C,23990,Pembuatan produk mineral bukan logam lain t.t.t.l.
+C,24101,"Pengeluaran jongkong besi dan spiegeleisen dalam bentuk jongkong, blok atau dalam bentuk asal lain"
+C,24102,Pembuatan batang dan rod keluli tahan karat atau keluli aloi lain
+C,24103,"Pembuatan tiub tidak berkelim, dengan penggelekan, picitan atau tempaan panas, atau dengan tempaan atau penggelekan sejuk"
+C,24104,Pembuatan kelengkapan tiub keluli
+C,24109,Pembuatan produk besi asas dan keluli lain t.t.t.l
+C,24201,Peleburan timah
+C,24202,Pengeluaran aluminium daripada alumina
+C,24209,Pembuatan logam asas berharga dan logam bukan ferus lain t.t.t.l
+C,24209,Pembuatan logam asas berharga dan logam bukan ferus lain t.t.t.l
+C,24311,Pengacuan besi
+C,24312,Pengacuan keluli
+C,24312,Pengacuan keluli
+C,24320,Pengacuan logam bukan ferus
+C,25111,Pembuatan kerangka kerja perindustrian daripada logam
+C,25112,Pembuatan bangunan pasang siap terutamanya daripada logam
+C,25113,"Pembuatan pintu, tingkap dan bingkai, penutup tingkap dan pintu pagar daripada logam"
+C,25119,Pembuatan produk struktur logam lain
+C,25120,"Pembuatan tangki, takungan dan kontena daripada logam"
+C,25130,"Pembuatan penjana wap, kecuali dandang pemanasan air berpusat("
+C,25200,Pembuatan senjata dan peluru
+C,25910,"Tempaan, tekanan, hentakan dan bentuk gelekan logam; serbuk metalurgi"
+C,25920,Rawatan dan penyalutan logam; menggunakan mesin
+C,25930,"Pembuatan kutleri, alatan pertukangan tangan dan perkakasan am"
+C,25930,"Pembuatan kutleri, alatan pertukangan tangan dan perkakasan am"
+C,25991,"Pembuatan tin  untuk produk makanan dan minuman, tiub dan kotak boleh dilipat"
+C,25992,"Pembuatan kabel, plaited bands (jalur/pita berpintal) dan artikel seumpamanya daripada logam"
+C,25993,"Pembuatan bolt, skru, nat dan produk uliran seumpamanya"
+C,25994,Pembuatan barangan rumah daripada logam
+C,25994,Pembuatan barangan rumah daripada logam
+C,25999,Pembuatan produk lain yang direka daripada logam t.t.t.l
+C,25999,Pembuatan produk lain yang direka daripada logam t.t.t.l
+C,25999,Pembuatan produk lain yang direka daripada logam t.t.t.l
+C,26101,"Pembuatan diod, transistor dan alatan semikonduktor yang seumpamanya"
+C,26101,"Pembuatan diod, transistor dan alatan semikonduktor yang seumpamanya"
+C,26102,Pembuatan litar elektronik bersepadu dengan pemasangan mikro
+C,26103,Pembuatan kapasitor dan perintang elektrik
+C,26104,Pembuatan papan litar bercetak
+C,26104,Pembuatan papan litar bercetak
+C,26104,Pembuatan papan litar bercetak
+C,26105,Pembuatan komponen paparan
+C,26109,Pembuatan komponen lain untuk aplikasi elektronik
+C,26109,Pembuatan komponen lain untuk aplikasi elektronik
+C,26109,Pembuatan komponen lain untuk aplikasi elektronik
+C,26109,Pembuatan komponen lain untuk aplikasi elektronik
+C,26109,Pembuatan komponen lain untuk aplikasi elektronik
+C,26109,Pembuatan komponen lain untuk aplikasi elektronik
+C,26201,Pembuatan komputer
+C,26201,Pembuatan komputer
+C,26201,Pembuatan komputer
+C,26201,Pembuatan komputer
+C,26201,Pembuatan komputer
+C,26202,Pembuatan kelengkapan peranti
+C,26300,Pembuatan peralatan komunikasi
+C,26300,Pembuatan peralatan komunikasi
+C,26300,Pembuatan peralatan komunikasi
+C,26400,Pembuatan elektronik pengguna
+C,26400,Pembuatan elektronik pengguna
+C,26511,"Pembuatan kelengkapan mengukur, menguji, memandu arah dan kawalan"
+C,26511,"Pembuatan kelengkapan mengukur, menguji, memandu arah dan kawalan"
+C,26511,"Pembuatan kelengkapan mengukur, menguji, memandu arah dan kawalan"
+C,26512,Pembuatan kelengkapan kawalan proses perindustrian
+C,26520,Pembuatan jam tangan dan jam dan bahagiannya
+C,26600,"Pembuatan peralatan penyinaran, perubatan elektro dan elektroterapeutik"
+C,26701,Pembuatan instrumen dan kelengkapan optikal
+C,26702,Pembuatan peralatan fotografi
+C,26702,Pembuatan peralatan fotografi
+C,26702,Pembuatan peralatan fotografi
+C,26800,Pembuatan media rakaman magnetik dan optikal
+C,26800,Pembuatan media rakaman magnetik dan optikal
+C,27101,"Pembuatan motor elektrik, penjana dan transformer"
+C,27102,Pembuatan perkakasan pengagihan dan pengawalan elektrik
+C,27200,Pembuatan bateri dan akumulator
+C,27310,Pembuatan kabel gentian optikal
+C,27310,Pembuatan kabel gentian optikal
+C,27320,Pembuatan wayar dan kabel elektronik dan elektrik lain
+C,27330,Pembuatan alatan pendawaian pembawa dan bukan pembawa arus untuk litar elektrik (tanpa mengira jenis bahan)
+C,27330,Pembuatan alatan pendawaian pembawa dan bukan pembawa arus untuk litar elektrik (tanpa mengira jenis bahan)
+C,27330,Pembuatan alatan pendawaian pembawa dan bukan pembawa arus untuk litar elektrik (tanpa mengira jenis bahan)
+C,27330,Pembuatan alatan pendawaian pembawa dan bukan pembawa arus untuk litar elektrik (tanpa mengira jenis bahan)
+C,27400,Pembuatan kelengkapan pencahayaan elektrik
+C,27400,Pembuatan kelengkapan pencahayaan elektrik
+C,27500,Pembuatan perkakasan domestik
+C,27900,"Pembuatan pelbagai kelengkapan elektrik selain daripada motor, penjana dan transformer, bateri dan akumulator, wayar dan alatan pendawaian, kelengkapan pencahayaan atau perkakasan domestik"
+C,27900,"Pembuatan pelbagai kelengkapan elektrik selain daripada motor, penjana dan transformer, bateri dan akumulator, wayar dan alatan pendawaian, kelengkapan pencahayaan atau perkakasan domestik"
+C,27900,"Pembuatan pelbagai kelengkapan elektrik selain daripada motor, penjana dan transformer, bateri dan akumulator, wayar dan alatan pendawaian, kelengkapan pencahayaan atau perkakasan domestik"
+C,27900,"Pembuatan pelbagai kelengkapan elektrik selain daripada motor, penjana dan transformer, bateri dan akumulator, wayar dan alatan pendawaian, kelengkapan pencahayaan atau perkakasan domestik"
+C,27900,"Pembuatan pelbagai kelengkapan elektrik selain daripada motor, penjana dan transformer, bateri dan akumulator, wayar dan alatan pendawaian, kelengkapan pencahayaan atau perkakasan domestik"
+C,27900,"Pembuatan pelbagai kelengkapan elektrik selain daripada motor, penjana dan transformer, bateri dan akumulator, wayar dan alatan pendawaian, kelengkapan pencahayaan atau perkakasan domestik"
+C,27900,"Pembuatan pelbagai kelengkapan elektrik selain daripada motor, penjana dan transformer, bateri dan akumulator, wayar dan alatan pendawaian, kelengkapan pencahayaan atau perkakasan domestik"
+C,27900,"Pembuatan pelbagai kelengkapan elektrik selain daripada motor, penjana dan transformer, bateri dan akumulator, wayar dan alatan pendawaian, kelengkapan pencahayaan atau perkakasan domestik"
+C,28110,"Pembuatan enjin dan turbin, kecuali enjin pesawat, kenderaan dan sikal"
+C,28110,"Pembuatan enjin dan turbin, kecuali enjin pesawat, kenderaan dan sikal"
+C,28110,"Pembuatan enjin dan turbin, kecuali enjin pesawat, kenderaan dan sikal"
+C,28110,"Pembuatan enjin dan turbin, kecuali enjin pesawat, kenderaan dan sikal"
+C,28110,"Pembuatan enjin dan turbin, kecuali enjin pesawat, kenderaan dan sikal"
+C,28110,"Pembuatan enjin dan turbin, kecuali enjin pesawat, kenderaan dan sikal"
+C,28120,Pembuatan alat-alat kuasa bendalir
+C,28120,Pembuatan alat-alat kuasa bendalir
+C,28120,Pembuatan alat-alat kuasa bendalir
+C,28130,"Pembuatan pam, pemampat, kepala paip dan injap lain"
+C,28140,"Pembuatan penggalas, gear, elemen gear dan pemanduan"
+C,28150,"Pembuatan ketuhar, relau dan relau pembakar"
+C,28150,"Pembuatan ketuhar, relau dan relau pembakar"
+C,28160,Pembuatan kelengkapan mengangkat dan mengendali
+C,28160,Pembuatan kelengkapan mengangkat dan mengendali
+C,28170,Pembuatan mesin dan kelengkapan pejabat (kecuali kelengkapan komputer dan peranti)
+C,28170,Pembuatan mesin dan kelengkapan pejabat (kecuali kelengkapan komputer dan peranti)
+C,28170,Pembuatan mesin dan kelengkapan pejabat (kecuali kelengkapan komputer dan peranti)
+C,28170,Pembuatan mesin dan kelengkapan pejabat (kecuali kelengkapan komputer dan peranti)
+C,28170,Pembuatan mesin dan kelengkapan pejabat (kecuali kelengkapan komputer dan peranti)
+C,28180,Pembuatan alatan tangan yang menggunakan kuasa dilengkapkan dengan motor elektrik atau bukan motor elektrik atau pneumatik
+C,28191,Pembuatan kelengkapan penyejukan atau pembekuan perindustrian
+C,28191,Pembuatan kelengkapan penyejukan atau pembekuan perindustrian
+C,28192,"Pembuatan mesin penyaman udara, termasuk untuk kenderaan bermotor"
+C,28199,Pengeluaran mesin tujuan umum lain t.t.t.l
+C,28199,Pengeluaran mesin tujuan umum lain t.t.t.l
+C,28199,Pengeluaran mesin tujuan umum lain t.t.t.l
+C,28210,Pembuatan mesin bagi pertanian dan perhutanan
+C,28220,Pembuatan jentera pembentukan logam dan alatan mesin
+C,28220,Pembuatan jentera pembentukan logam dan alatan mesin
+C,28230,Pengeluaran bagi jentera untuk metalurgi
+C,28240,"Pembuatan mesin untuk perlombongan, pengkuarian dan pembinaan"
+C,28250,"Pembuatan mesin untuk makanan, minuman dan pemprosesan tembakau"
+C,28260,"Pembuatan mesin untuk tekstil, pakaian dan pengeluaran kulit"
+C,28260,"Pembuatan mesin untuk tekstil, pakaian dan pengeluaran kulit"
+C,28290,Pembuatan lain-lain mesin bertujuan khas t.t.t.l.
+C,28290,Pembuatan lain-lain mesin bertujuan khas t.t.t.l.
+C,28290,Pembuatan lain-lain mesin bertujuan khas t.t.t.l.
+C,28290,Pembuatan lain-lain mesin bertujuan khas t.t.t.l.
+C,28290,Pembuatan lain-lain mesin bertujuan khas t.t.t.l.
+C,28290,Pembuatan lain-lain mesin bertujuan khas t.t.t.l.
+C,29101,Pembuatan kereta penumpang
+C,29102,Pembuatan kenderaan komersial
+C,29200,Pembuatan kerangka (coachwork) untuk kenderaan bermotor; pembuatan treler dan semi treler
+C,29300,Pembuatan alat ganti dan aksesori untuk kenderaan bermotor
+C,29300,Pembuatan alat ganti dan aksesori untuk kenderaan bermotor
+C,29300,Pembuatan alat ganti dan aksesori untuk kenderaan bermotor
+C,30110,Pembinaan kapal dan struktur terapung
+C,30110,Pembinaan kapal dan struktur terapung
+C,30120,Pembinaan bot persiaran dan sukan
+C,30200,Pembuatan keretapi lokomotif dan rolling stock
+C,30200,Pembuatan keretapi lokomotif dan rolling stock
+C,30200,Pembuatan keretapi lokomotif dan rolling stock
+C,30300,Pembuatan pesawat dan kapal angkasa dan jentera berkaitan
+C,30300,Pembuatan pesawat dan kapal angkasa dan jentera berkaitan
+C,30300,Pembuatan pesawat dan kapal angkasa dan jentera berkaitan
+C,30400,Pembuatan kenderaan tempur ketenteraan
+C,30910,Pembuatan motosikal
+C,30920,Pembuatan basikal dan invalid carriages
+C,30920,Pembuatan basikal dan invalid carriages
+C,30990,Pembuatan kelengkapan pengangkutan lain t.t.t.l.
+C,31001,Pembuatan perabot kayu dan rotan
+C,31002,Pembuatan perabot logam
+C,31002,Pembuatan perabot logam
+C,31003,Pembuatan tilam
+C,31009,"Pembuatan perabot lain kecuali daripada batu, konkrit atau seramik"
+C,32110,Pembuatan barang kemas dan artikel berkaitan
+C,32110,Pembuatan barang kemas dan artikel berkaitan
+C,32120,Pembuatan barang kemas tiruan dan artikel berkaitan
+C,32120,Pembuatan barang kemas tiruan dan artikel berkaitan
+C,32200,Pembuatan instrumen muzik
+C,32300,Pembuatan barangan sukan
+C,32300,Pembuatan barangan sukan
+C,32400,Pembuatan permainan dan mainan
+C,32500,Pembuatan peralatan dan bekalan perubatan dan pergigian
+C,32500,Pembuatan peralatan dan bekalan perubatan dan pergigian
+C,32500,Pembuatan peralatan dan bekalan perubatan dan pergigian
+C,32500,Pembuatan peralatan dan bekalan perubatan dan pergigian
+C,32500,Pembuatan peralatan dan bekalan perubatan dan pergigian
+C,32500,Pembuatan peralatan dan bekalan perubatan dan pergigian
+C,32500,Pembuatan peralatan dan bekalan perubatan dan pergigian
+C,32901,Pembuatan alat tulis
+C,32909,Pembuatan lain t.t.t.l
+C,32909,Pembuatan lain t.t.t.l
+C,32909,Pembuatan lain t.t.t.l
+C,32909,Pembuatan lain t.t.t.l
+C,32909,Pembuatan lain t.t.t.l
+C,32909,Pembuatan lain t.t.t.l
+C,32909,Pembuatan lain t.t.t.l
+C,32909,Pembuatan lain t.t.t.l
+C,32909,Pembuatan lain t.t.t.l
+C,32909,Pembuatan lain t.t.t.l
+C,32909,Pembuatan lain t.t.t.l
+C,32909,Pembuatan lain t.t.t.l
+C,32909,Pembuatan lain t.t.t.l
+C,33110,Pembaikan produk logam yang direka
+C,33110,Pembaikan produk logam yang direka
+C,33110,Pembaikan produk logam yang direka
+C,33110,Pembaikan produk logam yang direka
+C,33110,Pembaikan produk logam yang direka
+C,33110,Pembaikan produk logam yang direka
+C,33110,Pembaikan produk logam yang direka
+C,33110,Pembaikan produk logam yang direka
+C,33110,Pembaikan produk logam yang direka
+C,33120,Pembaikan dan penyelenggaraan jentera dan kelengkapan industri
+C,33120,Pembaikan dan penyelenggaraan jentera dan kelengkapan industri
+C,33120,Pembaikan dan penyelenggaraan jentera dan kelengkapan industri
+C,33120,Pembaikan dan penyelenggaraan jentera dan kelengkapan industri
+C,33120,Pembaikan dan penyelenggaraan jentera dan kelengkapan industri
+C,33120,Pembaikan dan penyelenggaraan jentera dan kelengkapan industri
+C,33120,Pembaikan dan penyelenggaraan jentera dan kelengkapan industri
+C,33120,Pembaikan dan penyelenggaraan jentera dan kelengkapan industri
+C,33120,Pembaikan dan penyelenggaraan jentera dan kelengkapan industri
+C,33120,Pembaikan dan penyelenggaraan jentera dan kelengkapan industri
+C,33120,Pembaikan dan penyelenggaraan jentera dan kelengkapan industri
+C,33120,Pembaikan dan penyelenggaraan jentera dan kelengkapan industri
+C,33120,Pembaikan dan penyelenggaraan jentera dan kelengkapan industri
+C,33120,Pembaikan dan penyelenggaraan jentera dan kelengkapan industri
+C,33120,Pembaikan dan penyelenggaraan jentera dan kelengkapan industri
+C,33120,Pembaikan dan penyelenggaraan jentera dan kelengkapan industri
+C,33120,Pembaikan dan penyelenggaraan jentera dan kelengkapan industri
+C,33120,Pembaikan dan penyelenggaraan jentera dan kelengkapan industri
+C,33120,Pembaikan dan penyelenggaraan jentera dan kelengkapan industri
+C,33120,Pembaikan dan penyelenggaraan jentera dan kelengkapan industri
+C,33131,"Pembaikan dan penyelenggaraan peralatan menyukat, menguji, memandu arah dan kelengkapan kawalan"
+C,33131,"Pembaikan dan penyelenggaraan peralatan menyukat, menguji, memandu arah dan kelengkapan kawalan"
+C,33131,"Pembaikan dan penyelenggaraan peralatan menyukat, menguji, memandu arah dan kelengkapan kawalan"
+C,33131,"Pembaikan dan penyelenggaraan peralatan menyukat, menguji, memandu arah dan kelengkapan kawalan"
+C,33132,"Pembaikan dan penyelenggaraan penyinaran, perubatan elektro dan kelengkapan electrotherapeutic"
+C,33133,Pembaikan bagi peralatan optikalal dan alatan fotografi
+C,33133,Pembaikan bagi peralatan optikalal dan alatan fotografi
+C,33133,Pembaikan bagi peralatan optikalal dan alatan fotografi
+C,33133,Pembaikan bagi peralatan optikalal dan alatan fotografi
+C,33140,Pembaikan dan penyelenggaraan peralatan elektrik kecuali penggunaan domestik
+C,33140,Pembaikan dan penyelenggaraan peralatan elektrik kecuali penggunaan domestik
+C,33140,Pembaikan dan penyelenggaraan peralatan elektrik kecuali penggunaan domestik
+C,33140,Pembaikan dan penyelenggaraan peralatan elektrik kecuali penggunaan domestik
+C,33140,Pembaikan dan penyelenggaraan peralatan elektrik kecuali penggunaan domestik
+C,33140,Pembaikan dan penyelenggaraan peralatan elektrik kecuali penggunaan domestik
+C,33140,Pembaikan dan penyelenggaraan peralatan elektrik kecuali penggunaan domestik
+C,33140,Pembaikan dan penyelenggaraan peralatan elektrik kecuali penggunaan domestik
+C,33140,Pembaikan dan penyelenggaraan peralatan elektrik kecuali penggunaan domestik
+C,33140,Pembaikan dan penyelenggaraan peralatan elektrik kecuali penggunaan domestik
+C,33140,Pembaikan dan penyelenggaraan peralatan elektrik kecuali penggunaan domestik
+C,33140,Pembaikan dan penyelenggaraan peralatan elektrik kecuali penggunaan domestik
+C,33150,Pembaikan dan penyelenggaraan kelengkapan pengangkutan kecuali motosikal dan basikal-basikal
+C,33150,Pembaikan dan penyelenggaraan kelengkapan pengangkutan kecuali motosikal dan basikal-basikal
+C,33150,Pembaikan dan penyelenggaraan kelengkapan pengangkutan kecuali motosikal dan basikal-basikal
+C,33150,Pembaikan dan penyelenggaraan kelengkapan pengangkutan kecuali motosikal dan basikal-basikal
+C,33150,Pembaikan dan penyelenggaraan kelengkapan pengangkutan kecuali motosikal dan basikal-basikal
+C,33150,Pembaikan dan penyelenggaraan kelengkapan pengangkutan kecuali motosikal dan basikal-basikal
+C,33190,Pembaikan dan penyelenggaraan peralatan lain t.t.t.l.
+C,33190,Pembaikan dan penyelenggaraan peralatan lain t.t.t.l.
+C,33190,Pembaikan dan penyelenggaraan peralatan lain t.t.t.l.
+C,33190,Pembaikan dan penyelenggaraan peralatan lain t.t.t.l.
+C,33190,Pembaikan dan penyelenggaraan peralatan lain t.t.t.l.
+C,33190,Pembaikan dan penyelenggaraan peralatan lain t.t.t.l.
+C,33190,Pembaikan dan penyelenggaraan peralatan lain t.t.t.l.
+C,33190,Pembaikan dan penyelenggaraan peralatan lain t.t.t.l.
+C,33190,Pembaikan dan penyelenggaraan peralatan lain t.t.t.l.
+C,33190,Pembaikan dan penyelenggaraan peralatan lain t.t.t.l.
+C,33190,Pembaikan dan penyelenggaraan peralatan lain t.t.t.l.
+C,33190,Pembaikan dan penyelenggaraan peralatan lain t.t.t.l.
+C,33190,Pembaikan dan penyelenggaraan peralatan lain t.t.t.l.
+C,33190,Pembaikan dan penyelenggaraan peralatan lain t.t.t.l.
+C,33200,Pemasangan bagi perindustrian mesin dan kelengkapan
+C,33200,Pemasangan bagi perindustrian mesin dan kelengkapan
+C,33200,Pemasangan bagi perindustrian mesin dan kelengkapan
+C,33200,Pemasangan bagi perindustrian mesin dan kelengkapan
+C,33200,Pemasangan bagi perindustrian mesin dan kelengkapan
+C,33200,Pemasangan bagi perindustrian mesin dan kelengkapan
+C,33200,Pemasangan bagi perindustrian mesin dan kelengkapan
+C,33200,Pemasangan bagi perindustrian mesin dan kelengkapan
+C,33200,Pemasangan bagi perindustrian mesin dan kelengkapan
+C,33200,Pemasangan bagi perindustrian mesin dan kelengkapan
+C,33200,Pemasangan bagi perindustrian mesin dan kelengkapan
+C,33200,Pemasangan bagi perindustrian mesin dan kelengkapan
+C,33200,Pemasangan bagi perindustrian mesin dan kelengkapan
+C,33200,Pemasangan bagi perindustrian mesin dan kelengkapan
+C,33200,Pemasangan bagi perindustrian mesin dan kelengkapan
+C,33200,Pemasangan bagi perindustrian mesin dan kelengkapan
+C,33200,Pemasangan bagi perindustrian mesin dan kelengkapan
+C,33200,Pemasangan bagi perindustrian mesin dan kelengkapan
+C,33200,Pemasangan bagi perindustrian mesin dan kelengkapan
+C,33200,Pemasangan bagi perindustrian mesin dan kelengkapan
+D,35101,Operasi kemudahan penjanaan yang menghasilkan tenaga elektrik
+D,35102,"Operasi penghantaran, pengagihan dan penjualan elektrik"
+D,35201,"Pembuatan bahan api berunsur gas yang mempunyai spesifikasi nilai calorific, mengikut  penulenan, pencampuran dan proses lain dari jenis gas yang lain termasuk gas asli"
+D,35202,"Pengangkutan, pengagihan dan bekalan semua jenis bahan api berunsur gas melalui sistem saluran utama"
+D,35203,Penjualan gas kepada pengguna melalui saluran utama
+D,35301,"Pengeluaran, pengumpulan dan pengagihan wap dan air panas untuk pemanasan, tenaga dan tujuan lain"
+D,35302,"Pengeluaran dan pengagih udara dingin, air yang disejukkan bagi tujuan pendinginan"
+D,35303,"Pengeluaran ais, termasuk ais untuk tujuan makanan dan bukan makanan (cth. pendinginan)"
+E,36001,Penulenan dan pengagihan air untuk tujuan bekalan air
+E,36002,Penyahmasinan air laut atau bawah tanah untuk menghasilkan air sebagai kepentingan produk utama(3)
+E,37000,Pembetungan dan aktiviti-aktiviti yang seumpamanya
+E,38111,Pengumpulan sisa pepejal yang tidak berbahaya (cth. sampah) di kawasan setempat
+E,38112,Pengumpulan bahan kitar semula
+E,38113,Pengumpulan sampah dalam tong sampah di kawasan awam
+E,38114,Pengumpulan sisa pembinaan dan runtuhan
+E,38115,Operasi stesen pemindahan pembuangan sisa tidak berbahaya
+E,38121,Pengumpulan sisa berbahaya
+E,38121,Pengumpulan sisa berbahaya
+E,38122,Operasi stesen pemindahan pembuangan bagi sisa berbahaya
+E,38210,Rawatan dan pelupusan sisa tidak berbahaya
+E,38210,Rawatan dan pelupusan sisa tidak berbahaya
+E,38220,Rawatan dan pelupusan sisa berbahaya
+E,38220,Rawatan dan pelupusan sisa berbahaya
+E,38220,Rawatan dan pelupusan sisa berbahaya
+E,38301,Meremukkan secara mekanikal sisa logam
+E,38301,Meremukkan secara mekanikal sisa logam
+E,38302,"Meleraikan peralatan automobil, komputer, televisyen dan peralatan lain untuk pemulihan bahan"
+E,38303,Memulih guna getah seperti tayar terpakai untuk menghasilkan bahan mentah sekunder
+E,38304,Penggunaan semula produk getah
+E,38309,Pemulihan bahan t.t.t.l.
+E,38309,Pemulihan bahan t.t.t.l.
+E,38309,Pemulihan bahan t.t.t.l.
+E,39000,Aktiviti pemulihan dan lain-lain perkhidmatan pengurusan sisa
+E,39000,Aktiviti pemulihan dan lain-lain perkhidmatan pengurusan sisa
+E,39000,Aktiviti pemulihan dan lain-lain perkhidmatan pengurusan sisa
+E,39000,Aktiviti pemulihan dan lain-lain perkhidmatan pengurusan sisa
+E,39000,Aktiviti pemulihan dan lain-lain perkhidmatan pengurusan sisa
+F,41001,Bangunan kediaman
+F,41002,Bangunan bukan kediaman
+F,41003,Pemasangan dan pendirian bangunan pasang siap di tapak pembinaan
+F,41009,Pembinaan bangunan t.t.t.l.
+F,42101,"Pembinaan laluan kenderaan bermotor, lorong, jalan, laluan pejalan kaki dan kenderaan lain"
+F,42102,"Kerja penurapan jalan, jalan raya, lebuhraya, jambatan atau terowong"
+F,42103,Pembinaan jambatan termasuk untuk lebuhraya bertingkat
+F,42104,Pembinaan terowong
+F,42105,Pembinaan landasan kereta api dan laluan bawah tanah
+F,42106,Pembinaan landasan lapangan terbang
+F,42109,Pembinaan jalan raya dan landasan kereta api t.t.t.l
+F,42201,"Saluran paip jarak jauh, talian komunikasi dan kuasa"
+F,42201,"Saluran paip jarak jauh, talian komunikasi dan kuasa"
+F,42202,"Saluran paip dalam bandar, talian komunikasi dan kuasa dalam bandar; kerja-kerja berkaitan dalam bandar"
+F,42202,"Saluran paip dalam bandar, talian komunikasi dan kuasa dalam bandar; kerja-kerja berkaitan dalam bandar"
+F,42203,Pembinaan punca dan saluran air
+F,42204,Loji takungan
+F,42205,Pembinaan sistem pengairan (terusan)
+F,42206,Pembinaan sistem pembetungan (termasuk pembaikan) dan loji pelupusan sisa kumbahan
+F,42207,Pembinaan janakuasa
+F,42209,Pembinaan projek utiliti t.t.t.l.
+F,42901,Pembinaan loji penapisan
+F,42902,"Pembinaan laluan air, kerja pelabuhan dan sungai, pleasure ports (marinas), kunci air"
+F,42903,Pembinaan empangan dan daik
+F,42904,Penggalian laluan air
+F,42905,Kemudahan sukan luar dewan
+F,42906,Pembahagian tanah berserta dengan penambahbaikan tanah
+F,42906,Pembahagian tanah berserta dengan penambahbaikan tanah
+F,42909,Pembinaan projek kejuruteraan awam lain t.t.t.l.
+F,43110,Perobohan atau peranapan bangunan dan struktur lain
+F,43121,Pembersihan tapak bangunan
+F,43122,Pengalihan tanah
+F,43122,Pengalihan tanah
+F,43123,"Pengujian tanah, pengerudian dan penggalian tanah untuk tujuan pembinaan, geofizikal, geologikal atau tujuan seumpamanya"
+F,43124,Penyediaan tapak bagi perlombongan
+F,43125,Perparitan bagi tanah pertanian atau perhutanan
+F,43126,Kerja penebusgunaan tanah
+F,43129,Aktiviti penyediaan tapak lain t.t.t.l.
+F,43211,Pendawaian dan pemasangan elektrik
+F,43212,Pendawaian telekomunikasi
+F,43213,Pendawaian rangkaian komputer dan kabel televisyen
+F,43214,Piring satelit
+F,43215,Sistem pencahayaan
+F,43216,Sistem keselamatan
+F,43219,Pemasangan elektrik t.t.t.l.
+F,43221,"Pemasangan sistem pemanasan (elektrik, gas dan minyak)"
+F,43222,"Pemasangan relau, menara pendinginan"
+F,43223,Pemasangan pengumpul tenaga solar bukan elektrik
+F,43224,Pemasangan sistem paip dan peralatan sanitasi
+F,43225,"Pemasangan peralatan dan saluran pengudaraan, penyejukan atau pendinginan udara"
+F,43226,Pemasangan kelengkapan gas
+F,43227,Pemasangan sistem perenjis air untuk kebakaran dan padang
+F,43228,Pemasangan paip untuk wap
+F,43229,"Pemasangan sistem paip, pemanasan dan pendinginan udara t.t.t.l."
+F,43291,"Pemasangan lif, eskalator dalam bangunan atau projek pembinaan lain"
+F,43292,Pemasangan pintu automatik dan berputar dalam bangunan atau projek pembinaan lain
+F,43293,Pemasangan konduktor kilat dalam bangunan atau projek pembinaan lain
+F,43294,Pemasangan sistem pembersihan vakum dalam bangunan atau projek pembinaan lain
+F,43295,"Pemasangan sistem penebatan haba, bunyi atau gegaran dalam bangunan atau projek pembinaan lain"
+F,43299,Pemasangan pembinaan lain t.t.t.l.
+F,43301,"Pemasangan rangka pintu, tingkap, rangka /bingkai pintu dan tingkap daripada kayu atau bahan lain, dapur pasang siap, tangga, kelengkapan kedai dan perabot(2)"
+F,43302,"Melapis, memasang jubin, menggantung atau memasang kelengkapan bangunan atau projek pembinaan lain daripada pelbagai bahan(3)"
+F,43303,Mengecat dalam dan luar bangunan
+F,43304,Mengecat struktur kejuruteraan awam
+F,43305,"Pemasangan kaca, cermin"
+F,43306,Penyiapan dalaman bangunan
+F,43307,Pembersihan bangunan baru selepas kerja pembinaan
+F,43309,Penyiapan dan kemasan bangunan lain t.t.t.l.
+F,43901,"Pembinaan tapak, termasuk memantak cerucuk"
+F,43902,Pembinaan elemen keluli yang bukan dibuat sendiri
+F,43903,Memasang dan membuka semula perancah dan platform kerja
+F,43904,Kerja mengikat dan menyusun bata
+F,43905,Pembinaan kolam renang luar bangunan
+F,43906,"Pembersihan menggunakan stim, pancutan air deras berpasir dan aktiviti seumpamanya untuk luar bangunan"
+F,43907,Penyewaan jentera dan peralatan pembinaan dengan operator (cth. kren)
+F,43909,Aktiviti pembinaan pertukangan khas lain t.t.t.l
+F,43909,Aktiviti pembinaan pertukangan khas lain t.t.t.l
+G,45101,Jualan borong dan runcit kenderaan bermotor baru
+G,45102,Jualan borong dan runcit kenderaan bermotor terpakai
+G,45103,"Jualan kenderaan industri, komersial dan pertanian- baru"
+G,45104,"Jualan kenderaan industri, komersial dan pertanian- terpakai"
+G,45105,Jualan oleh agen komisen
+G,45106,Lelongan kereta
+G,45109,Jualan lain-lain kenderaan bermotor t.t.t.l
+G,45201,Penyelenggaraan dan pembaikan kenderaan bermotor
+G,45201,Penyelenggaraan dan pembaikan kenderaan bermotor
+G,45202,Menyembur dan mengecat
+G,45203,Mencuci dan menggilap (cuci kereta)
+G,45204,Pembaikan tempat duduk kenderaan bermotor
+G,45205,Pemasangan komponen (termasuk alat ganti) dan aksesori bukan sebahagian daripada proses pembuatan
+G,45300,"Jualan borong dan runcit semua jenis komponen, alat ganti, bekalan, peralatan dan aksesori kenderaan bermotor"
+G,45300,"Jualan borong dan runcit semua jenis komponen, alat ganti, bekalan, peralatan dan aksesori kenderaan bermotor"
+G,45300,"Jualan borong dan runcit semua jenis komponen, alat ganti, bekalan, peralatan dan aksesori kenderaan bermotor"
+G,45401,Jualan borong dan runcit motosikal
+G,45401,Jualan borong dan runcit motosikal
+G,45402,Jualan borong dan runcit komponen (termasuk alat ganti) dan aksesori motosikal
+G,45402,Jualan borong dan runcit komponen (termasuk alat ganti) dan aksesori motosikal
+G,45403,Pembaikan dan penyelenggaraan motosikal
+G,46100,Jualan borong berdasarkan kontrak atau yuran
+G,46201,Jualan borong getah
+G,46202,Jualan borong minyak kelapa sawit
+G,46203,Jualan borong kayu balak dan kayu-kayan
+G,46204,Jualan borong bunga-bungaan dan tumbuh-tumbuhan
+G,46205,Jualan  borong ternakan
+G,46209,Jualan borong bahan mentah pertanian dan haiwan hidup t.t.t.l
+G,46209,Jualan borong bahan mentah pertanian dan haiwan hidup t.t.t.l
+G,46311,"Jualan borong daging, unggas dan telur"
+G,46312,Jualan borong ikan dan lain-lain makanan laut
+G,46313,Jualan borong buah-buahan
+G,46314,Jualan borong sayur-sayuran
+G,46319,"Jualan borong daging, ikan, buah-buahan dan sayur-sayuran t.t.t.l."
+G,46319,"Jualan borong daging, ikan, buah-buahan dan sayur-sayuran t.t.t.l."
+G,46319,"Jualan borong daging, ikan, buah-buahan dan sayur-sayuran t.t.t.l."
+G,46319,"Jualan borong daging, ikan, buah-buahan dan sayur-sayuran t.t.t.l."
+G,46321,"Jualan borong beras, bijirin lain, tepung dan gula"
+G,46322,Jualan borong hasil tenusu
+G,46323,Jualan borong konfeksi
+G,46324,"Jualan borong biskut, kek, roti dan produk bakeri lain"
+G,46325,"Jualan borong kopi, teh dan minuman lain"
+G,46325,"Jualan borong kopi, teh dan minuman lain"
+G,46326,"Jualan borong bir, wain dan spirit"
+G,46327,"Jualan borong tembakau, cerut, rokok"
+G,46329,Jualan borong barang makanan lain
+G,46411,Jualan borong benang dan fabrik
+G,46412,"Jualan borong linen, tuala dan selimut isi rumah"
+G,46413,Jualan borong pakaian
+G,46413,Jualan borong pakaian
+G,46414,Jualan borong aksesori pakaian
+G,46415,Jualan borong pakaian daripada bulu binatang
+G,46416,Jualan borong kasut
+G,46417,Jualan borong bahan jahitan
+G,46419,"Jualan borong tekstil, pakaian t.t.t.l."
+G,46419,"Jualan borong tekstil, pakaian t.t.t.l."
+G,46421,Jualan borong barangan farmaseutikal dan perubatan
+G,46422,"Jualan borong pewangi, kosmetik, sabun dan kelengkapan dandanan diri"
+G,46431,Jualan borong basikal dan komponen (termasuk alat ganti) dan aksesori
+G,46432,Jualan borong barangan fotografi dan optik
+G,46432,Jualan borong barangan fotografi dan optik
+G,46433,Jualan borong barangan kulit dan aksesori kembara
+G,46433,Jualan borong barangan kulit dan aksesori kembara
+G,46434,"Jualan borong peralatan muzik, permainan dan barang mainan, barangan sukan"
+G,46434,"Jualan borong peralatan muzik, permainan dan barang mainan, barangan sukan"
+G,46434,"Jualan borong peralatan muzik, permainan dan barang mainan, barangan sukan"
+G,46441,Jualan borong kraftangan dan bunga tiruan
+G,46442,Jualan borong bunga keratan dan tumbuhan
+G,46443,Jualan borong jam tangan dan jam dinding
+G,46444,Jualan borong barang kemas
+G,46491,Jualan borong perabot isi rumah
+G,46492,Jualan borong perkakas isi rumah
+G,46493,Jualan borong peralatan lampu
+G,46494,"Jualan borong perkakas dapur dan kutleri, pinggan mangkuk, barangan kaca dan barangan tembikar"
+G,46494,"Jualan borong perkakas dapur dan kutleri, pinggan mangkuk, barangan kaca dan barangan tembikar"
+G,46495,"Jualan borong barangan kayu, anyaman rotan dan barangan gabus"
+G,46496,Jualan borong barangan elektrik dan elektronik
+G,46497,"Jualan borong alat tulis, buku, majalah dan surat khabar"
+G,46499,Jualan borong lain-lain barangan isi rumah t.t.t.l.
+G,46510,"Jualan borong perkakasan komputer, perisian dan peranti"
+G,46510,"Jualan borong perkakasan komputer, perisian dan peranti"
+G,46521,"Jualan borong kelengkapan telefon dan telekomunikasi, telefon selular, alat kelui"
+G,46521,"Jualan borong kelengkapan telefon dan telekomunikasi, telefon selular, alat kelui"
+G,46522,Jualan borong komponen elektronik dan aksesori pendawaian
+G,46522,Jualan borong komponen elektronik dan aksesori pendawaian
+G,46531,"Jualan borong jentera, kelengkapan dan bekalan pertanian"
+G,46532,Jualan borong jentera pemotong rumput sebarang cara operasi
+G,46591,"Jualan borong mesin pejabat dan kelengkapan perniagaan, kecuali komputer dan kelengkapan peranti komputer (peripheral)"
+G,46592,Jualan borong perabot pejabat
+G,46593,Jualan borong peralatan mesin berkawalan komputer
+G,46594,"Jualan borong jentera, kelengkapan dan bekalan perindustrian"
+G,46595,Jualan borong jentera dan kelengkapan pembinaan dan kejuruteraan awam
+G,46596,"Jualan borong lif, eskalator, penghawa dingin, kelengkapan keselamatan dan pemadam api"
+G,46599,"Jualan borong lain-lain jentera untuk kegunaan industri, perdagangan dan pengemudian dan lain-lain perkhidmatan t.t.t.l."
+G,46599,"Jualan borong lain-lain jentera untuk kegunaan industri, perdagangan dan pengemudian dan lain-lain perkhidmatan t.t.t.l."
+G,46611,"Jualan borong petrol, diesel, pelincir"
+G,46612,Jualan borong gas petroleum cecair
+G,46619,"Jualan borong bahan api pepejal, cecair dan gas  dan produk berkaitan t.t.t.l."
+G,46621,Jualan borong bijih besi dan bukan besi dan logam
+G,46622,Jualan borong bijih besi dan bukan besi dan logam separuh siap dan produk t.t.t.l.
+G,46631,"Jualan borong kayu balak, kayu bergergaji, papan lapis, venier dan produk berkaitan"
+G,46632,Jualan borong cat dan varnis
+G,46633,Jualan borong bahan pembinaan
+G,46634,Jualan borong kelengkapan dan lekapan
+G,46635,Jualan borong pemanas air
+G,46636,Jualan borong pemasangan dan peralatan kebersihan
+G,46637,Jualan borong alatan
+G,46639,"Jualan borong dan bekalan lain-lain bahan binaan, hardwer, peralatan paip dan alat pemanas t.t.t.l."
+G,46639,"Jualan borong dan bekalan lain-lain bahan binaan, hardwer, peralatan paip dan alat pemanas t.t.t.l."
+G,46691,Jualan borong bahan kimia industri
+G,46692,Jualan borong baja dan produk agrokimia
+G,46693,Jualan borong bahan plastik dalam bentuk asal
+G,46694,Jualan borong sekerap getah
+G,46695,Jualan borong gentian tekstil
+G,46696,"Jual borong kertas secara pukal, bahan pembungkusan"
+G,46697,Jual borong batu permata berharga
+G,46698,Jual borong bahan buangan dan sekerap dan bahan lain sama ada logam dan bukan logam untuk kitar semula
+G,46698,Jual borong bahan buangan dan sekerap dan bahan lain sama ada logam dan bukan logam untuk kitar semula
+G,46699,"Melerai bahagian kenderaan, komputer, televisyen dan peralatan lain untuk mendapatkan bahagian yang boleh digunakan dan jual semula"
+G,46901,"Jualan borong ikan akuarium, burung dan haiwan peliharaan"
+G,46902,Jualan borong makanan haiwan/haiwan peliharaan
+G,46909,Jualan borong pelbagai jenis barang tanpa pengkhususan tertentu t.t.t.l.
+G,47111,Kedai runcit
+G,47112,Pasar raya
+G,47113,Pasar mini
+G,47114,Kedai ‘convenience’
+G,47191,Gedung serbaneka
+G,47192,Gedung serbaneka dan pasar raya
+G,47193,Pasar raya besar (Hypermarket)
+G,47194,Agen surat khabar dan kedai pelbagai barangan
+G,47199,Jualan runcit lain di kedai tanpa pengkhususan t.t.t.l.
+G,47211,"Jualan runcit beras, tepung, bijirin lain dan gula"
+G,47211,"Jualan runcit beras, tepung, bijirin lain dan gula"
+G,47212,Jualan runcit sayur-sayuran dan buah-buahan segar atau diawet
+G,47212,Jualan runcit sayur-sayuran dan buah-buahan segar atau diawet
+G,47213,Jualan runcit produk tenusu dan telur
+G,47214,Jualan runcit daging dan produk daging (unggas
+G,47215,Jualan runcit ikan dan makanan laut lain dan lain-lain produk yang berkaitan
+G,47216,Jualan runcit produk bakeri dan konfeksi
+G,47216,Jualan runcit produk bakeri dan konfeksi
+G,47217,"Jualan runcit mi, kueh teow, mihun, kulit wantan dan produk makanan lain yang dihasilkan daripada tepung atau soya"
+G,47219,Jualan runcit produk makanan lain t.t.t.l.
+G,47221,"Jualan runcit bir, wain dan spirit"
+G,47222,"Jualan runcit teh, kopi, minuman ringan, air mineral dan minuman lain"
+G,47222,"Jualan runcit teh, kopi, minuman ringan, air mineral dan minuman lain"
+G,47230,Jualan runcit produk tembakau di kedai khusus
+G,47300,Jualan runcit bahan api kenderaan di kedai khusus
+G,47411,"Jualan runcit komputer, peralatan dan kelengkapan komputer"
+G,47412,Jualan runcit konsol permainan video dan sofwer bukan ditempah khas
+G,47413,Jualan runcit peralatan telekomunikasi
+G,47413,Jualan runcit peralatan telekomunikasi
+G,47420,Jualan runcit peralatan audio dan video di kedai pengkhususan
+G,47420,Jualan runcit peralatan audio dan video di kedai pengkhususan
+G,47510,Jualan runcit di kedai khusus yang menjual tekstil
+G,47510,Jualan runcit di kedai khusus yang menjual tekstil
+G,47520,"Jualan runcit bahan binaan, hardwer, cat dan kaca"
+G,47531,Jualan runcit karpet dan hamparan
+G,47532,Jualan runcit langsir dan net
+G,47533,Jualan runcit kertas dinding dan alas lantai
+G,47591,Jualan runcit perabot isi rumah
+G,47592,Jualan runcit peralatan lampu
+G,47593,"Jualan runcit perkakas isi rumah, perkakas dapur dan kutleri, pinggan mangkuk, barangan kaca dan barangan tembikar"
+G,47593,"Jualan runcit perkakas isi rumah, perkakas dapur dan kutleri, pinggan mangkuk, barangan kaca dan barangan tembikar"
+G,47594,"Jualan runcit kayu, barangan gabus dan barangan anyaman rotan"
+G,47595,Jualan runcit perkakas isi rumah
+G,47596,Jualan runcit peralatan muzik dan skor
+G,47597,Jualan runcit sistem keselamatan
+G,47598,Jualan runcit barangan dan peralatan isi rumah t.t.t.l.
+G,47611,Jualan runcit bekalan dan peralatan pejabat
+G,47612,"Jualan runcit buku, surat khabar dan alat tulis"
+G,47620,"Jualan runcit rekod muzik, pita audio, cakera padat, kaset, pita video, VCD dan DVD, pita dan cakera kosong"
+G,47620,"Jualan runcit rekod muzik, pita audio, cakera padat, kaset, pita video, VCD dan DVD, pita dan cakera kosong"
+G,47631,Jualan runcit barangan dan peralatan sukan
+G,47631,Jualan runcit barangan dan peralatan sukan
+G,47632,Jualan runcit peralatan memancing
+G,47633,Jualan runcit barangan perkhemahan
+G,47634,Jualan runcit bot dan peralatannya
+G,47635,Jualan runcit basikal dan komponen (termasuk alat ganti) dan aksesori yang berkaitan
+G,47640,"Jualan runcit permainan dan barang mainan, diperbuat dari pelbagai bahan"
+G,47640,"Jualan runcit permainan dan barang mainan, diperbuat dari pelbagai bahan"
+G,47711,"Jualan runcit pakaian, artikel bagi bulu binatang dan aksesori pakaian"
+G,47712,Jualan runcit kasut
+G,47713,"Jualan runcit barangan kulit, aksesori kulit serta gantian kulit"
+G,47721,"Jualan runcit di kedai khusus yang menjual barang farmaseutikal, perubatan dan ortopedik"
+G,47722,"Jualan runcit di kedai khusus yang menjual pewangi, kosmetik dan kelengkapan dandanan diri"
+G,47731,Jualan runcit peralatan fotografi dan kepersisan
+G,47731,Jualan runcit peralatan fotografi dan kepersisan
+G,47732,Jualan runcit jam tangan dan jam dinding
+G,47733,Jualan runcit barang kemas
+G,47734,"Jualan runcit bunga, tumbuhan, biji benih dan baja"
+G,47735,"Jualan runcit cenderahati, kraftangan dan barang keagamaan"
+G,47736,"Jualan runcit minyak tanah, gas memasak, batu arang dan kayu api"
+G,47736,"Jualan runcit minyak tanah, gas memasak, batu arang dan kayu api"
+G,47737,Jualan runcit cermin mata dan barang optik lain
+G,47738,"Jualan runcit ikan akuarium, haiwan peliharaan dan makanannya"
+G,47738,"Jualan runcit ikan akuarium, haiwan peliharaan dan makanannya"
+G,47739,Jualan runcit di kedai khusus yang menjual barang baru lain t.t.t.l.
+G,47741,Jualan runcit buku terpakai
+G,47742,Jualan runcit barang elektrik dan elektronik terpakai
+G,47743,Jualan runcit barang antik
+G,47744,Aktiviti pusat lelongan (runcit)
+G,47749,Jualan runcit barangan terpakai t.t.t.l.
+G,47810,"Jualan runcit makanan, minuman dan produk tembakau di gerai atau pasar"
+G,47820,"Jualan runcit tekstil, baju dan kasut di gerai atau pasar"
+G,47891,Jualan runcit permaidani dan di gerai dan pasar
+G,47892,Jualan runcit buku di gerai atau pasar
+G,47893,Jualan runcit alat permainan dan barang mainan di gerai atau pasar
+G,47894,Jualan runcit peralatan isi rumah dan barang elektronik di gerai atau pasar
+G,47895,Jualan runcit rekod muzik dan video di gerai atau pasar
+G,47911,Jualan runcit sebarang jenis produk melalui pesanan mel
+G,47911,Jualan runcit sebarang jenis produk melalui pesanan mel
+G,47912,Jualan runcit sebarang jenis produk melalui internet
+G,47912,Jualan runcit sebarang jenis produk melalui internet
+G,47913,"Jualan langsung melalui televisyen, radio dan telefon"
+G,47913,"Jualan langsung melalui televisyen, radio dan telefon"
+G,47914,Jualan runcit lelongan melalui internet
+G,47914,Jualan runcit lelongan melalui internet
+G,47991,Jualan runcit sebarang jenis produk melalui jualan langsung atau penjualan dari pintu ke pintu
+G,47992,Jualan runcit sebarang jenis produk melalui mesin layan diri (vending machine)
+G,47999,"Jualan runcit lain bukan di kedai, gerai atau pasar t.t.t.l."
+H,49110,Pengangkutan penumpang antara bandar melalui laluan rel
+H,49120,"Pengangkutan muatan antara bandar, pinggir bandar dan bandar melalui laluan rel"
+H,49211,Perkhidmatan bas bandaraya
+H,49212,Perkhidmatan pengangkutan rel penumpang bandar dan pinggir bandar
+H,49221,Perkhidmatan bas ekspres
+H,49222,Perkhidmatan bas pekerja
+H,49223,Perkhidmatan bas sekolah
+H,49224,Perkhidmatan operasi teksi dan limosin
+H,49225,Sewa kereta dengan pemandu
+H,49229,Pengangkutan darat penumpang lain t.t.t.l.
+H,49229,Pengangkutan darat penumpang lain t.t.t.l.
+H,49229,Pengangkutan darat penumpang lain t.t.t.l.
+H,49230,Pengangkutan muatan melalui jalan raya
+H,49300,Pengangkutan melalui saluran paip
+H,50111,"Operasi rombongan, cruise atau bot persiaran"
+H,50112,"Operasi feri, teksi air"
+H,50113,Sewaan bot santai dengan krew bagi pengangkutan laut dan pesisir pantai
+H,50121,"Pengangkutan muatan laut dan pesisir pantai, berjadual atau tidak berjadual"
+H,50122,"Pengangkutan tunda atau tolak tongkang, pelantar minyak"
+H,50211,"Pengangkutan penumpang melalui sungai, terusan, tasik dan laluan air pedalaman lain"
+H,50212,Sewaan bot santai dengan krew bagi pengangkutan air pedalaman
+H,50220,"Pengangkutan muatan melalui sungai, terusan, tasik dan laluan air pedalaman lain"
+H,51101,Pengangkutan penumpang melalui udara mengikut laluan dan jadual biasa
+H,51102,Pengangkutan penumpang tidak berjadual
+H,51103,Penyewaan peralatan pengangkutan dengan operator untuk tujuan pengangkutan penumpang
+H,51201,Pengangkutan muatan udara mengikut laluan dan berjadual biasa
+H,51202,Pengangkutan muatan udara tidak berjadual
+H,51203,Penyewaan peralatan pengangkutan  udara dengan operator untuk tujuan pengangkutan muatan
+H,52100,Perkhidmatan penggudangan dan penyimpanan
+H,52211,Operasi kemudahan terminal
+H,52211,Operasi kemudahan terminal
+H,52212,Perkhidmatan tunda dan bantuan tepi jalan
+H,52212,Perkhidmatan tunda dan bantuan tepi jalan
+H,52212,Perkhidmatan tunda dan bantuan tepi jalan
+H,52213,Operasi kemudahan meletak kenderaan bermotor (medan letak kenderaan)
+H,52214,"Perkhidmatan operasi lebuh raya, jambatan dan terowong"
+H,52219,Aktiviiti perkhidmatan lain berkaitan pengangkutan darat t.t.t.l.
+H,52221,Operasi perkhidmatan pelabuhan dan limbungan
+H,52222,Perkhidmatan penyelamat dan pengapungan semula kapal
+H,52229,Aktiviti perkhidmatan lain berkaitan pengangkutan air t.t.t.l.
+H,52231,Operasi kemudahan terminal
+H,52232,Lapangan terbang dan aktiviti kawalan trafik udara
+H,52233,Aktiviti perkhidmatan asas di padang terbang
+H,52234,Aktiviti melawan dan pencegahan api di lapangan terbang
+H,52239,Aktiviti perkhidmatan lain berkaitan pengangkutan udara t.t.t.l.
+H,52241,Perkhidmatan pemunggahan
+H,52249,Aktiviti pengendalian kargo lain t.t.t.l.
+H,52291,Penghantaran muatan
+H,52291,Penghantaran muatan
+H,52291,Penghantaran muatan
+H,52292,Pembrokeran ruang kapal dan kapal terbang
+H,52292,Pembrokeran ruang kapal dan kapal terbang
+H,52299,Aktiviti sokongan pengangkutan lain t.t.t.l
+H,52299,Aktiviti sokongan pengangkutan lain t.t.t.l
+H,53100,Perkhidmatan pos nasional
+H,53200,Aktiviti kurier selain daripada aktiviti pos nasional
+I,55101,Hotel dan hotel resort
+I,55102,Motel
+I,55103,Hotel Apartmen
+I,55104,Chalet
+I,55105,Rumah rehat/rumah tetamu
+I,55106,Bed and breakfast unit
+I,55107,Asrama
+I,55108,Homestay
+I,55109,Aktiviti penginapan jangka masa pendek yang lain t.t.t.l.
+I,55200,"Tapak perkhemahan, taman kenderaan rekreasi dan taman treler"
+I,55900,Penginapan lain
+I,55900,Penginapan lain
+I,56101,Restoran dan restoran yang juga kelab malam
+I,56102,Kafeteria/kantin
+I,56102,Kafeteria/kantin
+I,56103,Restoran makanan segera
+I,56104,Trak ais krim dengan tempat duduk
+I,56105,Kenderaan sorong makanan yang bergerak
+I,56106,Gerai/penjaja makanan
+I,56107,"Makanan dan minuman, penyediaan makanan dan minuman di dalam gerai/penjaja"
+I,56210,Katering makanan
+I,56290,Aktiviti perkhidmatan makanan lain
+I,56301,"Pub, bar, disko, coffee house, ruang koktel dan karaoke"
+I,56302,Kedai kopi
+I,56303,Gerai/penjaja minuman
+I,56304,Perkhidmatan minuman bergerak
+I,56309,Tempat minuman lain t.t.t.l.
+J,58110,"Penerbitan buku, brosur dan penerbitan lain"
+J,58110,"Penerbitan buku, brosur dan penerbitan lain"
+J,58120,"Penerbitan senarai mel, buku telefon dan direktori lain"
+J,58120,"Penerbitan senarai mel, buku telefon dan direktori lain"
+J,58130,"Penerbitan surat khabar, jurnal, majalah dan penerbitan berkala dalam bentuk cetakan atau elektronik"
+J,58130,"Penerbitan surat khabar, jurnal, majalah dan penerbitan berkala dalam bentuk cetakan atau elektronik"
+J,58130,"Penerbitan surat khabar, jurnal, majalah dan penerbitan berkala dalam bentuk cetakan atau elektronik"
+J,58190,"Penerbitan katalog, gambar, turisan dan poskad, kad ucapan, borang, poster, penerbitan semula kerja-kerja seni, bahan pengiklanan dan bahan bercetak lain t.t.t.l."
+J,58190,"Penerbitan katalog, gambar, turisan dan poskad, kad ucapan, borang, poster, penerbitan semula kerja-kerja seni, bahan pengiklanan dan bahan bercetak lain t.t.t.l."
+J,58201,Aplikasi perniagaan dan aplikasi lain
+J,58202,Permainan komputer untuk semua platform
+J,58203,Sistem operasi
+J,58203,Sistem operasi
+J,58203,Sistem operasi
+J,59110,"Aktiviti pengeluaran wayang gambar, video dan program televisyen"
+J,59110,"Aktiviti pengeluaran wayang gambar, video dan program televisyen"
+J,59120,"Aktiviti pasca produksi wayang gambar, video dan program televisyen"
+J,59120,"Aktiviti pasca produksi wayang gambar, video dan program televisyen"
+J,59130,"Aktiviti pengedaran wayang gambar, video dan program televisyen"
+J,59130,"Aktiviti pengedaran wayang gambar, video dan program televisyen"
+J,59140,Aktiviti penayangan wayang gambar
+J,59140,Aktiviti penayangan wayang gambar
+J,59200,Aktiviti rakaman bunyi dan penerbitan muzik
+J,59200,Aktiviti rakaman bunyi dan penerbitan muzik
+J,59200,Aktiviti rakaman bunyi dan penerbitan muzik
+J,59200,Aktiviti rakaman bunyi dan penerbitan muzik
+J,59200,Aktiviti rakaman bunyi dan penerbitan muzik
+J,60100,Penyiaran radio
+J,60100,Penyiaran radio
+J,60100,Penyiaran radio
+J,60200,Aktiviti pemprograman dan penyiaran televisyen
+J,60200,Aktiviti pemprograman dan penyiaran televisyen
+J,60200,Aktiviti pemprograman dan penyiaran televisyen
+J,61101,Perkhidmatan aktiviti telekomunikasi berwayar
+J,61101,Perkhidmatan aktiviti telekomunikasi berwayar
+J,61102,Pembekal akses internet oleh operator infrastruktur berwayar
+J,61102,Pembekal akses internet oleh operator infrastruktur berwayar
+J,61201,Perkhidmatan telekomunikasi tanpa wayar
+J,61201,Perkhidmatan telekomunikasi tanpa wayar
+J,61201,Perkhidmatan telekomunikasi tanpa wayar
+J,61202,Pembekal akses Internet oleh operator infrastruktur tanpa wayar
+J,61202,Pembekal akses Internet oleh operator infrastruktur tanpa wayar
+J,61300,Perkhidmatan telekomunikasi satelit
+J,61300,Perkhidmatan telekomunikasi satelit
+J,61901,Penyediaan akses internet melalui rangkaian di antara pelanggan dan ISP yang bukan dimiliki atau dikawal oleh ISP
+J,61902,Penyediaan perkhidmatan telekomunikasi melalui sambungan telekom sedia ada
+J,61903,Penjualan semula telekomunikasi
+J,61904,Penyediaan perkhidmatan telekomunikasi melalui sambungan telekom VOIP (Voice Over Internet Protocol) sedia ada
+J,61905,Penyediaan aplikasi telekomunikasi yang khusus
+J,61909,Aktiviti telekomunikasi lain t.t.t.l.
+J,62010,Aktiviti pengaturcaraan komputer
+J,62021,Perundingan komputer
+J,62021,Perundingan komputer
+J,62022,Aktiviti pengurusan kemudahan komputer
+J,62091,Sistem keselamatan Teknologi Maklumat dan Komunikasi (ICT)
+J,62099,Aktiviti perkhidmatan teknologi maklumat lain t.t.t.l.
+J,63111,"Aktiviti penyediaan infrastruktur untuk hosting, perkhidmatan prosesan data dan aktiviti yang berkaitan"
+J,63112,"Aktiviti penyediaan infrastruktur untuk hosting, perkhidmatan prosesan data dan aktiviti yang berkaitan"
+J,63112,Aktiviti prosesan data
+J,63112,Aktiviti prosesan data
+J,63120,Web portal
+J,63120,Web portal
+J,63910,Aktiviti agensi dan sindiket berita
+J,63910,Aktiviti agensi dan sindiket berita
+J,63990,Aktiviti perkhidmatan maklumat lain t.t.t.l.
+J,63990,Aktiviti perkhidmatan maklumat lain t.t.t.l.
+K,64110,Perbankan pusat
+K,64191,Bank Perdagangan
+K,64192,Bank Islam
+K,64193,Bank Luar Pesisir Pantai
+K,64194,Bank Pelaburan
+K,64195,Institusi Pembangunan Kewangan (dengan fungsi pengambilan deposit)
+K,64195,Institusi Pembangunan Kewangan (dengan fungsi pengambilan deposit)
+K,64199,Perantaraan kewangan lain (dengan fungsi pengambilan deposit) t.t.t.l.
+K,64199,Perantaraan kewangan lain (dengan fungsi pengambilan deposit) t.t.t.l.
+K,64199,Perantaraan kewangan lain (dengan fungsi pengambilan deposit) t.t.t.l.
+K,64199,Perantaraan kewangan lain (dengan fungsi pengambilan deposit) t.t.t.l.
+K,64200,Aktiviti syarikat pemegang
+K,64301,Syarikat modal usahasama
+K,64301,Syarikat modal usahasama
+K,64302,Unit tabung amanah tidak termasuk REITs
+K,64303,Harta unit amanah (REITs)
+K,64910,Aktiviti pajakan kewangan
+K,64921,Institusi pembangunan kewangan (tanpa fungsi pengambilan deposit)
+K,64922,Perkhidmatan kad kredit
+K,64924,"Kedai pajak gadai dan tukang pajak termasuk
+Ar-Rahnu"
+K,64924,"Kedai pajak gadai dan tukang pajak termasuk
+Ar-Rahnu"
+K,64925,Koperasi dengan fungsi kredit
+K,64929,Pemberian kredit lain t.t.t.l.
+K,64991,Syarikat pemfaktoran
+K,64993,Syarikat nomini
+K,64999,"Aktiviti perkhidmatan kewangan lain, kecuali insurans/takaful dan tabungan pencen, t.t.t.l."
+K,65111,Insurans Hayat
+K,65111,Insurans Hayat
+K,65112,Takaful keluarga
+K,65121,Insurans am
+K,65121,Insurans am
+K,65121,Insurans am
+K,65121,Insurans am
+K,65121,Insurans am
+K,65122,Takaful am
+K,65122,Takaful am
+K,65122,Takaful am
+K,65122,Takaful am
+K,65122,Takaful am
+K,65201,Insurans semula hayat
+K,65202,Takaful semula keluarga
+K,65203,Insurans semula am
+K,65204,Takaful semula am
+K,65204,Takaful semula am
+K,65204,Takaful semula am
+K,65204,Takaful semula am
+K,65204,Takaful semula am
+K,65205,Takaful semula komposit
+K,65206,Insurans semula luar pesisir pantai
+K,65207,Takaful semula luar pesisir pantai
+K,65301,Tabungan pencen
+K,65302,Tabungan hemat
+K,66111,Bursa saham
+K,66112,Bursa untuk kontrak komoditi
+K,66113,Bursa sekuriti
+K,66114,Bursa kontrak komoditi masa hadapan
+K,66119,Pentadbiran pasaran kewangan t.t.t.l.
+K,66121,"Broker stok, saham dan bon"
+K,66122,Broker dan peniaga komoditi
+K,66123,Peniaga jongkong emas
+K,66124,Broker dan peniaga tukaran wang asing (Bureaux de change)
+K,66125,Perkhidmatan pengurup wang
+K,66129,Broker dan peniaga kewangan dan komoditi masa hadapan lain
+K,66191,Perkhidmatan penasihat pelaburan
+K,66192,Perkhidmatan perundingan kewangan
+K,66192,Perkhidmatan perundingan kewangan
+K,66199,Aktiviti sokongan kepada kewangan t.t.t.l.
+K,66211,Perkhidmatan penyesuaian insurans
+K,66212,Perkhidmatan penyesuaian takaful
+K,66221,Ejen insurans
+K,66222,Ejen takaful
+K,66223,Broker insurans
+K,66224,Broker takaful
+K,66290,"Aktiviti sokongan kepada insurans, takaful dan tabungan pencen lain"
+K,66301,Pengurusan tabung pencen
+K,66301,Pengurusan tabung pencen
+K,66302,Pengurusan aset/portfolio
+K,66303,Syarikat pengurusan unit amanah
+L,68101,"Pembelian, penjualan, penyewaan dan pengendalian bagi hartanah milikan sendiri atau pajakan – bangunan kediaman"
+L,68102,"Pembelian, penjualan, penyewaan dan pengendalian bagi hartanah milikan sendiri atau pajakan - bangunan bukan kediaman"
+L,68102,"Pembelian, penjualan, penyewaan dan pengendalian bagi hartanah milikan sendiri atau pajakan - bangunan bukan kediaman"
+L,68103,"Pembelian, penjualan, penyewaan dan pengendalian bagi hartanah milikan sendiri atau pajakan - tanah"
+L,68104,Pembangunan bagi projek yang dibina untuk operasi sendiri spt. untuk sewaan ruang di dalam bangunan
+L,68109,Aktiviti hartanah bagi harta milikan sendiri atau pajakan t.t.t.l.
+L,68109,Aktiviti hartanah bagi harta milikan sendiri atau pajakan t.t.t.l.
+L,68201,"Aktiviti agen dan broker hartanah untuk pembelian, penjualan dan penyewaan hartanah"
+L,68201,"Aktiviti agen dan broker hartanah untuk pembelian, penjualan dan penyewaan hartanah"
+L,68202,Pengurusan hartanah atas dasar bayaran atau kontrak
+L,68203,Perkhidmatan penilaian hartanah
+L,68209,Aktiviti hartanah atas dasar bayaran atau kontrak t.t.t.l.
+M,69100,Aktiviti guaman
+M,69200,"Aktiviti perakaunan, simpan kira dan audit; perundingan percukaian"
+M,70100,Aktiviti ibu pejabat
+M,70201,Perkhidmatan perundingan pengurusan perniagaan
+M,70202,Perkhidmatan perundingan sumber manusia
+M,70203,Perkhidmatan perundingan perhubungan awam dan komunikasi
+M,70209,Aktiviti perundingan pengurusan lain t.t.t.l.
+M,70209,Aktiviti perundingan pengurusan lain t.t.t.l.
+M,70209,Aktiviti perundingan pengurusan lain t.t.t.l.
+M,71101,Perkhidmatan arkitek
+M,71102,Perkhidmatan kejuruteraan
+M,71103,Perkhidmatan juru ukur tanah
+M,71109,Aktiviti arkitek dan kejuruteraan lain dan perundingan teknikal berkaitan t.t.t.l.
+M,71200,Ujian teknikal dan analisis
+M,71200,Ujian teknikal dan analisis
+M,72101,Penyelidikan dan pembangunan sains semula jadi
+M,72101,Penyelidikan dan pembangunan sains semula jadi
+M,72102,Penyelidikan dan pembangunan kejuruteraan dan teknologi
+M,72103,Penyelidikan dan pembangunan sains perubatan
+M,72104,Penyelidikan dan pembangunan bioteknologi
+M,72105,Penyelidikan dan pembangunan sains pertanian
+M,72106,Penyelidikan dan pembangunan teknologi maklumat dan komunikasi
+M,72109,Penyelidikan dan pembangunan sains semula jadi dan kejuruteran lain t.t.t.l.
+M,72201,Penyelidikan dan pembangunan sains sosial
+M,72201,Penyelidikan dan pembangunan sains sosial
+M,72202,Penyelidikan dan pembangunan kemanusian
+M,72202,Penyelidikan dan pembangunan kemanusian
+M,72201,"Penyelidikan dan pembangunan sosial sains dan kemanusian lain, t.t.t.l."
+M,72209,"Penyelidikan dan pembangunan sosial sains dan kemanusian lain, t.t.t.l."
+M,73100,Pengiklanan
+M,73100,Pengiklanan
+M,73200,Penyelidikan pasaran dan tinjauan pendapat umum
+M,74101,Aktiviti hiasan dalaman
+M,74102,Perkhidmatan pereka grafik
+M,74103,Perkhidmatan rekaan fesyen
+M,74109,Aktiviti reka bentuk khusus t.t.t.l.
+M,74109,Aktiviti reka bentuk khusus t.t.t.l.
+M,74200,Aktiviti fotografi
+M,74200,Aktiviti fotografi
+M,74901,Aktiviti penterjemahan dan pentafsiran
+M,74902,Aktiviti broker perniagaan
+M,74902,Aktiviti broker perniagaan
+M,74903,Perunding keselamatan
+M,74904,Aktiviti juru ukur bahan
+M,74905,"Aktiviti perunding selain daripada perunding arkitek, kejuruteraan dan pengurusan"
+M,74905,"Aktiviti perunding selain daripada perunding arkitek, kejuruteraan dan pengurusan"
+M,74905,"Aktiviti perunding selain daripada perunding arkitek, kejuruteraan dan pengurusan"
+M,74909,"Aktiviti professional, saintifik dan teknikal lain t.t.t.l."
+M,75000,Aktiviti veterinar
+N,77101,Penyewaan dan pemajakan operasi kereta penumpang (tanpa pemandu)
+N,77102,"Penyewaan dan pemajakan operasi trak, treler pelbagai guna dan kenderaan rekreasi"
+N,77211,"Penyewaan dan pemajakan bot peranginan, kenu, perahu layar"
+N,77212,Penyewaan dan pemajakan basikal
+N,77213,Penyewaan dan pemajakan kerusi pantai dan payung
+N,77219,Penyewaan dan pemajakan kelengkapan sukan lain t.t.t.l.
+N,77220,"Penyewaan pita video, piring hitam, CD, DVD"
+N,77291,"Penyewaan dan pemajakan barang tekstil, pakaian dan kasut"
+N,77292,"Penyewaan dan pemajakan barang perabot, tembikar dan kaca, perkakas dapur, barang elektrik dan peralatan rumah"
+N,77292,"Penyewaan dan pemajakan barang perabot, tembikar dan kaca, perkakas dapur, barang elektrik dan peralatan rumah"
+N,77292,"Penyewaan dan pemajakan barang perabot, tembikar dan kaca, perkakas dapur, barang elektrik dan peralatan rumah"
+N,77293,"Penyewaan dan pemajakan barang kemas, peralatan muzik, hiasan latar dan kostum"
+N,77294,"Penyewaan dan pemajakan buku, jurnal dan majalah"
+N,77295,Penyewaan dan pemajakan mesin dan kelengkapan yang digunakan oleh amatur atau sebagai hobi
+N,77296,Penyewaan pokok dan bunga
+N,77297,Penyewaan dan pemajakan kelengkapan elektronik untuk kegunaan isi rumah
+N,77299,Penyewaan dan pemajakan barangan persendirian dan isi rumah lain t.t.t.l.
+N,77299,Penyewaan dan pemajakan barangan persendirian dan isi rumah lain t.t.t.l.
+N,77301,"Penyewaan dan pemajakan operasi, tanpa operator, untuk mesin dan kelengkapan lain yang biasanya digunakan sebagai barang modal oleh industri"
+N,77302,"Penyewaan dan pemajakan operasi, tanpa pemandu, kelengkapan pengangkutan darat (selain daripada kenderaan bermotor)"
+N,77302,"Penyewaan dan pemajakan operasi, tanpa pemandu, kelengkapan pengangkutan darat (selain daripada kenderaan bermotor)"
+N,77302,"Penyewaan dan pemajakan operasi, tanpa pemandu, kelengkapan pengangkutan darat (selain daripada kenderaan bermotor)"
+N,77303,Penyewaan dan pemajakan operasi kelengkapan pengangkutan air tanpa pengendali
+N,77303,Penyewaan dan pemajakan operasi kelengkapan pengangkutan air tanpa pengendali
+N,77304,Penyewaan dan pemajakan operasi kelengkapan pengangkutan udara tanpa pengendali
+N,77305,Penyewaan dan pemajakan operasi jentera dan kelengkapan pertanian dan perhutanan tanpa pengendali
+N,77306,Penyewaan dan pajakan operasi jentera dan kelengkapan pembinaan dan kejuruteraan awam tanpa pengendali
+N,77307,Sewaan dan pajakan operasi jentera dan kelengkapan pejabat tanpa pengendali
+N,77309,"Penyewaan dan pajakan mesin bagi jentera, kelengkapan dan barang ketara t.t.t.l."
+N,77309,"Penyewaan dan pajakan mesin bagi jentera, kelengkapan dan barang ketara t.t.t.l."
+N,77400,"Pemajakan harta intelektual dan produk seumpamanya, kecuali kerja berhakcipta"
+N,77400,"Pemajakan harta intelektual dan produk seumpamanya, kecuali kerja berhakcipta"
+N,77400,"Pemajakan harta intelektual dan produk seumpamanya, kecuali kerja berhakcipta"
+N,77400,"Pemajakan harta intelektual dan produk seumpamanya, kecuali kerja berhakcipta"
+N,78100,Aktiviti agensi penempatan pekerjaan
+N,78100,Aktiviti agensi penempatan pekerjaan
+N,78200,Aktiviti agensi pekerjaan sementara
+N,78300,Penyediaan sumber manusia kepada perniagaan pelanggan
+N,79110,Aktiviti agensi pengembaraan
+N,79120,Aktiviti operator pelancongan
+N,79900,Khidmat penempahan dan aktiviti berkaitan
+N,79900,Khidmat penempahan dan aktiviti berkaitan
+N,79900,Khidmat penempahan dan aktiviti berkaitan
+N,79900,Khidmat penempahan dan aktiviti berkaitan
+N,79900,Khidmat penempahan dan aktiviti berkaitan
+N,79900,Khidmat penempahan dan aktiviti berkaitan
+N,80100,Aktiviti keselamatan persendirian
+N,80200,Aktiviti perkhidmatan sistem keselamatan
+N,80200,Aktiviti perkhidmatan sistem keselamatan
+N,80300,Aktiviti detektif dan penyiasatan
+N,81100,Aktiviti sokongan gabungan pelbagai kemudahan
+N,81100,Aktiviti sokongan gabungan pelbagai kemudahan
+N,81210,Pembersihan am bangunan
+N,81291,Pembersihan semua jenis bangunan
+N,81292,Perkhidmatan pembersihan dan penyelenggaraan kolam renang
+N,81294,"Pembersihan keretapi, bas dan kapal terbang"
+N,81296,Aktiviti disinfeksi dan penghapusan
+N,81299,Aktiviti pembersihan bangunan dan perindustrian t.t.t.l.
+N,81299,Aktiviti pembersihan bangunan dan perindustrian t.t.t.l.
+N,81300,Aktiviti perkhidmatan penjagaan dan penyelenggaraan landskap
+N,81300,Aktiviti perkhidmatan penjagaan dan penyelenggaraan landskap
+N,82110,Gabungan aktiviti perkhidmatan pengurusan pejabat
+N,82191,"Penyediaan dokumen, penyuntingan dan/atau membaca pruf"
+N,82192,"Menaip, word processing atau desktop publishing"
+N,82193,Perkhidmatan sokongan kesetiausahaan
+N,82194,Transkripsi dokumen dan perkhidmatan kesetiausahaan lain
+N,82195,Penyediaan penyewaan peti surat dan perkhidmatan mel lain
+N,82195,Penyediaan penyewaan peti surat dan perkhidmatan mel lain
+N,82196,"Fotokopi, pendua, bluprint"
+N,82199,"Aktiviti fotokopi, penyediaan dokumen dan lain-lain aktiviti sokongan pejabat khusus t.t.t.l."
+N,82200,Aktiviti pusat panggilan
+N,82301,"Mengurus, mempromosi dan/atau mengendali acara"
+N,82301,"Mengurus, mempromosi dan/atau mengendali acara"
+N,82302,"Mesyuarat , insentif, konvensyen, pameran (MICE)"
+N,82910,Aktiviti agensi kutipan dan biro kredit
+N,82920,Aktiviti pembungkusan berdasarkan kontrak atau yuran sama ada melibatkan proses automatik atau tidak
+N,82990,Aktiviti perkhidmatan sokongan perniagaan t.t.t.l.
+O,84111,Aktiviti perkhidmatan awam am (keseluruhan)
+O,84112,Aktiviti perkhidmatan sampingan untuk kerajaan secara keseluruhannya
+O,84121,Perkhidmatan pentadbiran pendidikan
+O,84122,Perkhidmatan pentadbiran penjagaan kesihatan
+O,84123,Perkhidmatan pentadbiran perumahan dan kerajaan tempatan
+O,84124,"Perkhidmatan pentadbiran rekreasi, kebudayaan, kesenian dan sukan"
+O,84125,Perkhidmatan pentadbiran hal ehwal agama
+O,84126,Perkhidmatan pentadbiran kebajikan
+O,84129,Perkhidmatan hal ehwal komuniti dan sosial lain
+O,84131,Hal ehwal perdagangan domestik dan antarabangsa
+O,84132,Hal ehwal pertanian dan pembangunan luar bandar
+O,84133,Hal ehwal perusahaan utama
+O,84134,Hal ehwal kerja awam
+O,84135,Hal ehwal pengangkutan
+O,84136,"Hal ehwal tenaga, telekomunikasi dan pos"
+O,84137,Hal ehwal pelancongan
+O,84138,Hal ehwal sumber manusia
+O,84139,Peraturan dan sumbangan lain ke arah kecekapan operasi perniagaan t.t.t.l.
+O,84210,Hal ehwal luar negeri
+O,84220,Perkhidmatan ketenteraan dan pertahanan awam
+O,84231,Perkhidmatan polis
+O,84232,Perkhidmatan penjara
+O,84233,Perkhidmatan imigresen
+O,84234,Perkhidmatan pendaftaran negara
+O,84235,Perkhidmatan badan kehakiman dan perundangan
+O,84236,Pemadaman dan pencegahan kebakaran
+O,84239,Perkhidmatan berkaitan hal ehwal ketenteraman dan keselamatan awam lain
+O,84300,Aktiviti keselamatan sosial wajib cth. SOCSO
+P,85101,Pendidikan pra-sekolah (Awam)
+P,85102,Pendidikan pra-sekolah (Swasta)
+P,85103,Pendidikan rendah (Awam)
+P,85104,Pendidikan rendah (Swasta)
+P,85211,Pendidikan menengah am (Awam)
+P,85212,Pendidikan menengah am (Swasta)
+P,85221,Pendidikan menengah teknik dan vokasional di bawah tahap pendidikan tinggi (Awam)
+P,85222,Pendidikan menengah teknik dan vokasional di bawah tahap pendidikan tinggi (Swasta)
+P,85222,Pendidikan menengah teknik dan vokasional di bawah tahap pendidikan tinggi (Swasta)
+P,85301,Pendidikan kolej dan universiti (Awam)
+P,85302,Pendidikan kolej dan universiti (Swasta)
+P,85302,Pendidikan kolej dan universiti (Swasta)
+P,85411,Pengajaran sukan
+P,85411,Pengajaran sukan
+P,85412,Pengajaran seni mempertahankan diri
+P,85419,Pendidikan sukan dan rekreasi lain yang t.t.t.l.
+P,85419,Pendidikan sukan dan rekreasi lain yang t.t.t.l.
+P,85419,Pendidikan sukan dan rekreasi lain yang t.t.t.l.
+P,85421,Sekolah muzik dan tarian(4)
+P,85429,Pendidikan kebudayaan lain yang t.t.t.l.
+P,85429,Pendidikan kebudayaan lain yang t.t.t.l.
+P,85491,Pusat tuisyen
+P,85492,Sekolah memandu
+P,85493,Pengajaran agama
+P,85494,Latihan komputer
+P,85499,Pendidikan lain t.t.t.l.
+P,85499,Pendidikan lain t.t.t.l.
+P,85500,Perkhidmatan sokongan pendidikan untuk peruntukan kepada perkhidmatan bukan pengajaran
+P,85500,Perkhidmatan sokongan pendidikan untuk peruntukan kepada perkhidmatan bukan pengajaran
+P,85500,Perkhidmatan sokongan pendidikan untuk peruntukan kepada perkhidmatan bukan pengajaran
+Q,86101,Aktiviti hospital
+Q,86102,Perkhidmatan rumah bersalin (luar hospital)
+Q,86201,Perkhidmatan perubatan am
+Q,86202,Perkhidmatan perubatan khas
+Q,86203,Perkhidmatan berkaitan gigi
+Q,86901,Pusat dialisis
+Q,86902,Makmal perubatan
+Q,86903,Perkhidmatan fisioterapi dan terapi pekerjaan
+Q,86904,Perkhidmatan akupunktur
+Q,86905,Perkhidmatan ahli herba dan homeopati
+Q,86906,Perkhidmatan ambulan
+Q,86909,Perkhidmatan kesihatan kemanusiaan lain t.t.t.l.
+Q,87101,Rumah untuk orang tua dengan perawatan
+Q,87101,Rumah untuk orang tua dengan perawatan
+Q,87102,Rumah penjagaan
+Q,87103,Paliatif atau hospis
+Q,87201,Pusat pemulihan dadah
+Q,87201,Pusat pemulihan dadah
+Q,87201,Pusat pemulihan dadah
+Q,87209,Aktiviti rumah penjagaan lain untuk orang terencat akal t.t.t.l.
+Q,87300,Aktiviti rumah penjagaan untuk orang tua dan orang kurang upaya
+Q,87300,Aktiviti rumah penjagaan untuk orang tua dan orang kurang upaya
+Q,87901,Rumah anak yatim
+Q,87902,Perkhidmatan rumah kebajikan
+Q,87902,Perkhidmatan rumah kebajikan
+Q,87902,Perkhidmatan rumah kebajikan
+Q,87909,Aktiviti rumah penjagaan lain t.t.t.l.
+Q,87909,Aktiviti rumah penjagaan lain t.t.t.l.
+Q,87909,Aktiviti rumah penjagaan lain t.t.t.l.
+Q,88101,Aktiviti penjagaan harian untuk orang tua atau orang dewasa yang cacat
+Q,88109,Aktiviti kerja sosial lain tanpa penginapan untuk orang tua dan orang kurang upaya
+Q,88901,Perkhidmatan kaunseling
+Q,88902,Aktiviti penjagaan harian kanak-kanak
+Q,88909,Aktiviti kerja sosial lain tanpa penginapan t.t.t.l.
+Q,88909,Aktiviti kerja sosial lain tanpa penginapan t.t.t.l.
+Q,88909,Aktiviti kerja sosial lain tanpa penginapan t.t.t.l.
+Q,88909,Aktiviti kerja sosial lain tanpa penginapan t.t.t.l.
+Q,88909,Aktiviti kerja sosial lain tanpa penginapan t.t.t.l.
+Q,88909,Aktiviti kerja sosial lain tanpa penginapan t.t.t.l.
+Q,88909,Aktiviti kerja sosial lain tanpa penginapan t.t.t.l.
+R,90001,"Perkhidmatan penerbit teater, penyanyi kumpulan pancaragam dan hiburan orkestra"
+R,90001,"Perkhidmatan penerbit teater, penyanyi kumpulan pancaragam dan hiburan orkestra"
+R,90002,Operasi dewan konsert dan teater serta kemudahan kesenian lain
+R,90003,"Aktiviti pemahat, pelukis, kartunis, pengukir, penggores"
+R,90004,"Aktiviti penulis perseorangan, untuk semua subjek"
+R,90005,Aktiviti jurnalis bebas
+R,90005,Aktiviti jurnalis bebas
+R,90006,Pembaikan hasil kesenian seperti lukisan
+R,90006,Pembaikan hasil kesenian seperti lukisan
+R,90007,"Aktiviti penerbit atau pengusaha seni persembahan secara langsung, dengan atau tanpa kemudahan"
+R,90009,"Aktiviti kesenian, hiburan dan kreatif t.t.t.l."
+R,90009,"Aktiviti kesenian, hiburan dan kreatif t.t.t.l."
+R,90009,"Aktiviti kesenian, hiburan dan kreatif t.t.t.l."
+R,91011,Aktiviti dokumentasi dan maklumat bagi semua jenis perpustakaan
+R,91011,Aktiviti dokumentasi dan maklumat bagi semua jenis perpustakaan
+R,91012,Penyimpanan foto perpustakaan dan perkhidmatan
+R,91021,Operasi semua jenis muzium
+R,91022,Operasi tapak dan bangunan bersejarah
+R,91031,Operasi taman botani dan zoologi
+R,91032,"Operasi rizab semula jadi, termasuk pemeliharaan hidupan liar"
+R,92000,Aktiviti perjudian dan pertaruhan
+R,93111,"Bola sepak, hoki, kriket, besbol, badminton, futsal, paintball"
+R,93112,Litar perlumbaan untuk kenderaan bermotor
+R,93113,Kelab ekuestrian
+R,93114,"Stadium dan kolam renang, arena luncur ais"
+R,93115,Padang stadium dan balapan
+R,93116,Padang golf
+R,93117,Pusat boling
+R,93118,Pusat kesihatan
+R,93119,Penganjuran dan operasi acara sukan dalam dan luar bangunan untuk profesional atau amatur oleh organisasi dengan kemudahan sukan sendiri
+R,93119,Penganjuran dan operasi acara sukan dalam dan luar bangunan untuk profesional atau amatur oleh organisasi dengan kemudahan sukan sendiri
+R,93120,"Operasi kelab sukan seperti kelab bola sepak, kelab boling, kelab renang"
+R,93191,"Aktiviti penganjur atau promosi acara sukan, dengan atau tanpa kemudahan"
+R,93192,Aktiviti liga sukan dan badan yang mengawal
+R,93193,Aktiviti berkaitan dengan promosi acara sukan
+R,93199,Aktiviti sukan lain t.t.t.l.
+R,93210,Aktiviti taman hiburan dan taman tema
+R,93291,Aktiviti taman rekreasi dan pantai
+R,93292,Operasi kemudahan pengangkutan rekreasi
+R,93293,Sewaan peralatan riadah sebagai kelengkapan untuk kemudahan rekreasi
+R,93294,Operasi pesta dan pertunjukan rekreasi semula jadi
+R,93295,Operasi kelab malam dan lantai tari
+R,93296,"Aktiviti penganjur atau pengusaha persembahan secara langsung selain daripada acara kesenian atau sukan, dengan atau tanpa kemudahan"
+R,93297,Kafe siber/pusat internet
+R,93297,Kafe siber/pusat internet
+R,93299,Aktiviti hiburan dan rekreasi lain t.t.t.l.
+S,94110,Aktiviti keahlian organisasi perniagaan dan majikan
+S,94120,Aktiviti keahlian organisasi profesional
+S,94200,Aktiviti kesatuan buruh
+S,94910,Aktiviti organisasi keagamaan
+S,94920,Aktiviti organisasi politik
+S,94990,Aktiviti keahlian organisasi lain t.t.t.l.
+S,94990,Aktiviti keahlian organisasi lain t.t.t.l.
+S,94990,Aktiviti keahlian organisasi lain t.t.t.l.
+S,94990,Aktiviti keahlian organisasi lain t.t.t.l.
+S,94990,Aktiviti keahlian organisasi lain t.t.t.l.
+S,94990,Aktiviti keahlian organisasi lain t.t.t.l.
+S,95111,Pembaikan peralatan elektronik
+S,95112,Pembaikan dan penyelenggaraan terminal komputer
+S,95113,Pembaikan dan penyelenggaraan hand-held computers (PDA’s)
+S,95121,Pembaikan dan penyelengaraan telefon tanpa wayar
+S,95122,Pembaikan dan penyelenggaraan telefon selular
+S,95123,Pembaikan dan penyelengaraan peralatan carrier modems
+S,95124,Pembaikan dan penyelengaraan mesin faks
+S,95125,Pembaikan dan penyelengaraan peralatan transmisi komunikasi
+S,95126,Pembaikan dan penyelenggaraan radio dua hala
+S,95127,Pembaikan dan penyelengaraan TV komersial dan kamera video
+S,95211,Pembaikan dan penyelenggaraan TV dan penerima radio
+S,95212,Pembaikan dan penyelenggaraan VCR/DVD/VCD
+S,95213,Pembaikan dan penyelenggaraan pemain CD
+S,95214,Pembaikan dan penyelenggaraan kamera video bagi isi rumah
+S,95214,Pembaikan dan penyelenggaraan kamera video bagi isi rumah
+S,95214,Pembaikan dan penyelenggaraan kamera video bagi isi rumah
+S,95221,Pembaikan dan penyenggaraan kelengkapan isi rumah
+S,95222,Pembaikan dan penyenggaraan peralatan rumah dan halaman
+S,95230,Pembaikan kelengkapan kasut dan barangan kulit
+S,95240,Pembaikan perabut dan kelengkapan rumah
+S,95240,Pembaikan perabut dan kelengkapan rumah
+S,95240,Pembaikan perabut dan kelengkapan rumah
+S,95240,Pembaikan perabut dan kelengkapan rumah
+S,95291,Pembaikan basikal
+S,95292,Pembaikan dan pemindaan pakaian
+S,95293,Pembaikan dan pemindaan barangan kemas
+S,95294,"Pembaikan jam tangan, jam dan kelengkapanya"
+S,95295,Pembaikan barangan sukan
+S,95296,Pembaikan peralatan muzikal
+S,95299,Pembaikan barangan persendirian dan isi rumah t.t.t.l.
+S,96011,"Pencucian dan cucian kering, menggosok"
+S,96012,"Mensyampo karpet dan permaidani, serta pengeringan dan cucian langsir sama ada di premis pengguna atau sebaliknya"
+S,96013,"Penyediaan linen, baju seragam dan perkara berkaitan dengan cucian"
+S,96014,Perkhidmatan pembekalan pengalas
+S,96020,Dandanan rambut dan penjagaan kecantikan lain
+S,96020,Dandanan rambut dan penjagaan kecantikan lain
+S,96020,Dandanan rambut dan penjagaan kecantikan lain
+S,96031,Penyediaan pengurusan mayat untuk pengebumian atau pembakaran dan perkhidmatan pengawetan mayat
+S,96032,Perkhidmatan penyediaan pengebumian atau pembakaran
+S,96033,Penyewaan ruang yang lengkap dalam bilik pengebumian
+S,96034,Penyewaan dan penjualan ruang kubur
+S,96035,Penyelenggaraan kubur dan makam
+S,96091,"Aktiviti sauna, mandian stim, salon mengurut"
+S,96092,Aktiviti astrologikal dan kerohanian
+S,96093,"Aktiviti sosial seperti perkhidmatan pengiring, temujanji dan biro perkahwinan"
+S,96093,"Aktiviti sosial seperti perkhidmatan pengiring, temujanji dan biro perkahwinan"
+S,96094,Perkhidmatan jagaan haiwan
+S,96095,Organisasi genealogikal
+S,96096,"Pengilat kasut, porter, valet memakir kereta"
+S,96097,Operasi konsensi bagi perkhidmatan mesin duit syiling untuk kegunaan persendirian
+S,96099,Aktiviti perkhidmatan lain t.t.t.l.
+T,97000,Aktiviti isi rumah sebagai majikan bagi personel domestik
+U,99000,Aktiviti badan dan pertubuhan luar wilayah
+K,64304,Pengurusan akaun amanah lain
+K,64309,"Entiti amanah, tabung dan kewangan seumpamanya t.t.t.l."
+K,64923,Aktiviti peminjaman wang berlesen
+K,64992,Wakil pejabat bank asing
+K,65123,Insurans komposit
+K,65124,Insurans luar pesisir pantai
+K,65125,Takaful luar pesisir pantai
+M,70100,Aktiviti ibu pejabat
+N,81293,Pembersihan mesin perindustrian
+N,81295,Perkhidmatan pembersihan kawalan haiwan perosak yang tiada kaitan dengan pertanian
+N,81297,Pembersihan kapal tangki
+T,98100,Aktiviti mengeluarkan barangan yang tidak dapat dibezakan oleh isi rumah persendirian untuk kegunaan sendiri
+T,98200,Aktiviti menyediakan perkhidmatan yang tidak dapat dibezakan oleh isi rumah persendirian untuk kegunaan sendiri

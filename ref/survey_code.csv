@@ -1,0 +1,55 @@
+KOD,PENERANGAN
+101,Tanaman
+103,Ternakan
+104,Perhutanan dan Pembalakan
+105,Perikanan
+201,Lombong
+202,Kuari
+203,Pasir
+205,Pembuatan
+206,Pembinaan
+207,Minyak Mentah & Gas Asli
+301,Perkhidmatan Pendidikan
+302,Perkhidmatan Hospital & Penjagaan Kesihatan
+303,Perkhidmatan Klinik
+304,"Perkhidmatan Arkitek, Kejuruteraan, Juruukur Tanah dan Khidmat Perundingan Teknikal dan Lain"
+305,Perkhidmatan Perakaunan
+306,Perkhidmatan Guaman
+307,Penginapan
+308,Perkhidmatan Aktiviti Hartanah
+309,Aktiviti Kewangan
+310,Wayang Gambar
+311,Aktiviti Pentadbiran dan Khidmat Sokongan
+312,Pengiklanan
+313,Pengangkutan Laut dan Pinggir Pantai (Syarikat Perkapalan)
+314,Perkhidmatan Bas
+315,"Perkhidmatan Teksi, Kereta Sewa dan Limosin (termasuk perkhidmatan tempahan teksi dll.)"
+316,Perkhidmatan Agensi Pengembaraan dan Operator Pelancongan
+317,Perkhidmatan Pengangkutan Udara
+318,"Perkhidmatan Kargo, Penyimpanan dan Muatan"
+319,Perkhidmatan Telekomunikasi
+320,Perkhidmatan Komputer
+321,Perkhidmatan Kereta Api
+322,Perkhidmatan Pengangkutan Air Pedalaman
+323,Perkhidmatan Tempat Letak Kereta
+324,Perkhidmatan Operasi Lebuhraya dan Lain-lain
+325,Perkhidmatan Kurier
+326,"Perdagangan Borong, Kecuali Kenderaan Bermotor dan Motosikal"
+327,"Perdagangan Runcit, Kecuali Kenderaan Bermotor dan Motosikal"
+328,Makanan dan Minuman
+329,Perdagangan Borong dan Runcit dan Pembaikan Kenderaan Bermotor dan Motosikal
+330,Penerbitan
+331,Perkhidmatan Perundingan Perniagaan dan Pengurusan
+332,Perkhidmatan Aktiviti Perkhidmatan Persendirian
+333,Pusat Persidangan dan Pertunjukan Perniagaan
+334,"Perpustakaan, muzium dan Kebudayaan Lain"
+335,"Pusat Sukan, Hiburan dan Rekreasi"
+336,Aktiviti Veterinar
+391,Pengangkutan Lain
+392,Penyelidikan dan Pembangunan Saintifik
+393,Perkhidmatan Profesional Lain
+800,"Bekalan elektrik, gas,wap dan pendingin udara"
+810,"Bekalan air,pembentungan, pengurusan sisa dan aktiviti pemulihan"
+840,Perkhidmatan Sosial
+850,"Perkhidmatan Kesenian,Hiburan dan Rekreasi"
+890,Aktiviti Perkhidmatan Lain

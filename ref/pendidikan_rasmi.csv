@@ -1,0 +1,46 @@
+Kod,Pendidikan Rasmi Tertinggi
+001,Pendidikan awal kanak-kanak (kurang dari 3 tahun)
+002,Pendidikan pra sekolah
+101,Tahun 1
+102,Tahun 2
+103,Tahun 3
+104,Tahun 4
+105,Tahun 5
+106,Tahun 6
+201,Kelas peralihan
+202,Tingkatan 1
+203,Tingkatan 2
+204,Tingkatan 3
+205,Tingkatan 4
+206,Tingkatan 5
+207,Program kemahiran asas
+208,Kolej vokasional Tahun 1
+209,Kolej vokasional Tahun 2
+301,Tingkatan 6 (rendah)
+302,Tingkatan 6 (atas)
+303,Matrikulasi
+304,Program persediaan
+305,Pra Universiti
+306,Diploma Tahun 1
+307,Diploma Tahun 2
+308,Kolej vokasional Tahun 3
+309,Kolej vokasional Tahun 4
+310,Institusi latihan kemahiran Tahun 1
+311,Institusi latihan kemahiran Tahun 2
+401,Program sijil kemahiran khusus dan teknikal
+402,Program sijil oleh badan-badan yang memberi pengiktirafan
+403,Program sijil dari kolej/politeknik/ universiti atau setaraf dengannya
+404,Program sijil perguruan/kejururawatan/kesihatan bersekutu
+501,Program diploma kemahiran khusus dan teknikal
+502,Program diploma lanjutan/ Diploma Tinggi Nasional  kemahiran khusus dan teknikal
+503,Program diploma dari kolej/politeknik/universiti atau setaraf dengannya
+504,Program diploma perguruan/kejururawatan/kesihatan bersekutu
+601,Program ijazah sarjana muda/diploma lanjutan
+701,Program lepasan ijazah
+702,Program sarjana
+801,Program ijazah falsafah kedoktoran
+802,Skim pasca kedoktoran
+003,Pendidikan Tidak Formal
+004,Tiada pendidikan
+005,Masih belum bersekolah
+006,Pendidikan Bukan Formal

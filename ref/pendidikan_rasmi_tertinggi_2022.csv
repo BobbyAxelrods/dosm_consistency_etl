@@ -1,0 +1,46 @@
+KOD,DESC,GRP_PT,DESC
+001,Pendidikan awal kanak-kanak (kurang dari 3 tahun),1,Tiada pendidikan rasmi
+002,Pendidikan pra sekolah,1,Tiada pendidikan rasmi
+101,Tahun 1,2,Rendah
+102,Tahun 2,2,Rendah
+103,Tahun 3,2,Rendah
+104,Tahun 4,2,Rendah
+105,Tahun 5,2,Rendah
+106,Tahun 6,2,Rendah
+201,Kelas peralihan,3,Menengah
+202,Tingkatan 1,3,Menengah
+203,Tingkatan 2,3,Menengah
+204,Tingkatan 3,3,Menengah
+205,Tingkatan 4,3,Menengah
+206,Tingkatan 5,3,Menengah
+207,Program kemahiran asas,3,Menengah
+208,Kolej vokasional Tahun 1,3,Menengah
+209,Kolej vokasional Tahun 2,3,Menengah
+301,Tingkatan 6 (rendah),4,Tertiari
+302,Tingkatan 6 (atas),4,Tertiari
+303,Matrikulasi,4,Tertiari
+304,Program persediaan,4,Tertiari
+305,Pra Universiti,4,Tertiari
+306,Diploma Tahun 1,4,Tertiari
+307,Diploma Tahun 2,4,Tertiari
+308,Kolej vokasional Tahun 3,4,Tertiari
+309,Kolej vokasional Tahun 4,4,Tertiari
+310,Institusi latihan kemahiran Tahun 1,4,Tertiari
+311,Institusi latihan kemahiran Tahun 2,4,Tertiari
+401,Program sijil kemahiran khusus dan teknikal,4,Tertiari
+402,Program sijil oleh badan-badan yang memberi pengiktirafan,4,Tertiari
+403,Program sijil dari kolej/politeknik/ universiti atau setaraf dengannya,4,Tertiari
+404,Program sijil perguruan/kejururawatan/kesihatan bersekutu,4,Tertiari
+501,Program diploma kemahiran khusus dan teknikal,4,Tertiari
+502,Program diploma lanjutan/ Diploma Tinggi Nasional  kemahiran khusus dan teknikal,4,Tertiari
+503,Program diploma dari kolej/politeknik/universiti atau setaraf dengannya,4,Tertiari
+504,Program diploma perguruan/kejururawatan/kesihatan bersekutu,4,Tertiari
+601,Program ijazah sarjana muda/diploma lanjutan,4,Tertiari
+701,Program lepasan ijazah,4,Tertiari
+702,Program sarjana,4,Tertiari
+801,Program ijazah falsafah kedoktoran,4,Tertiari
+802,Skim pasca kedoktoran,4,Tertiari
+003,Pendidikan Tidak Formal,1,Tiada pendidikan rasmi
+004,Tiada pendidikan,1,Tiada pendidikan rasmi
+005,Masih belum bersekolah,1,Tiada pendidikan rasmi
+006,Pendidikan Bukan Formal,1,Tiada pendidikan rasmi

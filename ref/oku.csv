@@ -1,0 +1,16 @@
+Kod,Status OKU,Kategori
+11,OKU Berdaftar,Penglihatan
+12,OKU Berdaftar,Pendengaran
+13,OKU Berdaftar,Pertuturan
+14,OKU Berdaftar,Fizikal
+15,OKU Berdaftar,Masalah pembelajaran
+16,OKU Berdaftar,Mental
+17,OKU Berdaftar,Ketidakupayaan pelbagai
+21,OKU Tidak Berdaftar,Penglihatan
+22,OKU Tidak Berdaftar,Pendengaran
+23,OKU Tidak Berdaftar,Pertuturan
+24,OKU Tidak Berdaftar,Fizikal
+25,OKU Tidak Berdaftar,Masalah pembelajaran
+26,OKU Tidak Berdaftar,Mental
+27,OKU Tidak Berdaftar,Ketidakupayaan pelbagai
+30,Tidak,Tidak

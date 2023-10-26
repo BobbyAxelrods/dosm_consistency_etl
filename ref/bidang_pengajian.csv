@@ -1,0 +1,88 @@
+Kod,Bidang Pengajian,Program
+010,Program asas/umum,
+080,Literasi dan numerasi,
+090,Kemahiran personal,
+141,Pengajaran dan latihan,Latihan perguruan dan sains pendidikan
+142,Sains pendidikan,Latihan perguruan dan sains pendidikan
+143,Latihan perguruan untuk guru pra- sekolah,Latihan perguruan dan sains pendidikan
+144,Latihan perguruan untuk guru peringkat asas,Latihan perguruan dan sains pendidikan
+145,Latihan perguruan untuk guru dengan pengkhususan subjek,Latihan perguruan dan sains pendidikan
+146,Latihan perguruan untuk guru dengan subjek vokasional/praktikal,Latihan perguruan dan sains pendidikan
+211,"Seni halus, lukisan, khat, calligraphy",Kesenian
+212,"Muzik dan persembahan kesenian
+(nyanyian, lakonan, drama, tarian, teater)
+",Kesenian
+213,Produksi media dan teknik audio-visual,Kesenian
+214,Rekaan,Kesenian
+215,Kemahiran tukangan,Kesenian
+221,Agama ,Kemanusiaan
+222,Pengajian bahasa,Kemanusiaan
+223,Bahasa kebangsaan (Bahasa Malaysia),Kemanusiaan
+224,Bahasa-bahasa lain ,Kemanusiaan
+225,Sejarah dan arkeologi,Kemanusiaan
+226,Falsafah dan etika,Kemanusiaan
+227,"Sejarah, falsafah dan subjek berkaitan",Kemanusiaan
+311,Psikologi,Sains sosial dan sains gelagat
+312,Pengajian sosiologi dan kajian kebudayaan,Sains sosial dan sains gelagat
+313,Sains politik dan sivik,Sains sosial dan sains gelagat
+314,Ekonomi ,Sains sosial dan sains gelagat
+321,Kewartawanan dan pelaporan,Kewartawanan dan maklumat
+322,"Perpustakaan, maklumat dan arkib",Kewartawanan dan maklumat
+341,Jualan borong dan runcit ,Perniagaan dan pentadbiran
+342,Pemasaran dan pengiklanan ,Perniagaan dan pentadbiran
+343,"Kewangan, perbankan, insurans, pelaburan",Perniagaan dan pentadbiran
+344,"Perakaunan, percukaian, pengauditan, simpan kira",Perniagaan dan pentadbiran
+345,Pengurusan dan pentadbiran,Perniagaan dan pentadbiran
+346,Kesetiausahaan dan perkeranian,Perniagaan dan pentadbiran
+347,Kehidupan kerja ,Perniagaan dan pentadbiran
+380,"Undang-undang (am, antarabangsa)",Undang-undang
+381,Undang-undang syariah,Undang-undang
+421,Biologi dan biokimia ,Sains hayat
+422,Sains persekitaran (ekologi),Sains hayat
+441,Fizik,Sains fizikal
+442,Kimia ,Sains fizikal
+443,Sains,Sains fizikal
+461,Matematik,Matematik dan statistik
+462,Statistik ,Matematik dan statistik
+481,Sains komputer,Pengkomputeran
+482,Penggunaan komputer,Pengkomputeran
+521,Mekanik dan kerja logam,Kejuruteraan dan kejuruteraan dagangan
+522,Tenaga dan elektrik,Kejuruteraan dan kejuruteraan dagangan
+523,Elektronik dan pengautomasian ,Kejuruteraan dan kejuruteraan dagangan
+524,Kimia dan proses,Kejuruteraan dan kejuruteraan dagangan
+525,"Kenderaan bermotor, kapal dan kapal terbang ",Kejuruteraan dan kejuruteraan dagangan
+526,Kejuruteraan awam,Kejuruteraan dan kejuruteraan dagangan
+527,Kejuruteraan bahan,Kejuruteraan dan kejuruteraan dagangan
+541,Pemprosesan/ teknologi makanan ,Pembuatan dan pemprosesan
+542,"Tekstil, pakaian, pakaian kaki, kulit ",Pembuatan dan pemprosesan
+543,Bahan ,Pembuatan dan pemprosesan
+544,Perlombongan dan galian ,Pembuatan dan pemprosesan
+545,Sains gunaan ,Pembuatan dan pemprosesan
+581,Senibina dan perancang bandar ,Senibina dan bangunan
+582,Bangunan,Senibina dan bangunan
+621,Pengeluaran ternakan dan tanaman ,"Pertanian, perhutanan dan perikanan"
+622,Perkebunan,"Pertanian, perhutanan dan perikanan"
+623,Perhutanan,"Pertanian, perhutanan dan perikanan"
+624,Perikanan,"Pertanian, perhutanan dan perikanan"
+641,Penjagaan kesihatan haiwan,Veterinar
+721,Perubatan,Kesihatan
+722,Perkhidmatan perubatan ,Kesihatan
+723,Kejururawatan dan penjagaan,Kesihatan
+724,Pengajian pergigian,Kesihatan
+725,Teknologi rawatan dan perubatan diagnostik,Kesihatan
+726,Terapi dan pemulihan ,Kesihatan
+727,Farmasi,Kesihatan
+761,Perkhidmatan asuhan kanak-kanak dan belia,Perkhidmatan sosial
+762,Kerja sosial dan kaunseling ,Perkhidmatan sosial
+811,"Hotel, restoran dan katering ",Perkhidmatan personal
+812,"Pengembaraan, pelancongan dan rekreasi",Perkhidmatan personal
+813,Sukan,Perkhidmatan personal
+814,Perkhidmatan domestik ,Perkhidmatan personal
+815,Perkhidmatan pendandanan dan kecantikan ,Perkhidmatan personal
+840,Air crew programmes,Perkhidmatan pengangkutan
+851,Teknologi kawalan alam sekitar ,Kawalan alam sekitar
+852,Alam semula jadi dan hidupan liar ,Kawalan alam sekitar
+853,Perkhidmatan sanitari komuniti,Kawalan alam sekitar
+861,Perlindungan diri dan harta benda ,Perkhidmatan keselamatan
+862,Kesihatan dan keselamatan pekerjaan,Perkhidmatan keselamatan
+863,Ketenteraan dan pertahanan ,Perkhidmatan keselamatan
